@@ -1,0 +1,1031 @@
+English
+AQUARIUS_1 prompts| 
+Net General Info| Net General Info
+Net Persist. Data| Net Persist. Data
+Net DHCP Info| Net DHCP Info
+Net QoS| Net QoS
+Lease Remaining| Lease Remaining
+ Enter Admin Password|  Enter Admin Password
+Current Server| Current Server
+Did you move?| Did you move?
+Yes-update 9-1-1 info| Yes-update 9-1-1 info
+Manual Upgrade| Manual Upgrade
+Password| Password
+Dimmer Level| Dimmer Level
+| 
+| 
+AQUARIUS_2 prompts| 
+Net General Info| Net General Info
+Net Persist. Data| Net Persist. Data
+Net DHCP Info| Net DHCP Info
+Net QoS| Net QoS
+Lease Remaining| Lease Remaining
+ Enter Admin Password|  Enter Admin Password
+Current Server| Current Server
+Did you move?| Did you move?
+Yes-update 9-1-1 info| Yes-update 9-1-1 info
+Manual Upgrade| Manual Upgrade
+Password| Password
+Dimmer Level| Dimmer Level
+| 
+| 
+AQUARIUS_3 prompts| 
+Net General Info| Net General Info
+Net Persist Data| Net Persist Data
+Net DHCP Info| Net DHCP Info
+Net QoS| Net QoS
+Lease Remaining (Seconds)| Lease Remaining (Seconds)
+key opens Voicemail App| key opens Voicemail App
+Avail. Net.| Avail. Net.
+ Enter Administrator Password|  Enter Administrator Password
+Current Call Server| Current Call Server
+Device Move Detected| Device Move Detected
+Did you move to a new address?\n\nYes - Update your emergency location information| Did you move to a new address?\n\nYes - Update your emergency location information
+Manual Upgrade| Manual Upgrade
+Password| Password
+Dimmer Level| Dimmer Level
+| 
+| 
+AQUARIUS_4 prompts| 
+Network General Info| Network General Info
+Network Persist. Data| Network Persist. Data
+Network DHCP Info| Network DHCP Info
+Network QoS| Network QoS
+Lease Remaining (Seconds)| Lease Remaining (Seconds)
+key opens Voicemail App| key opens Voicemail App
+Available Networks| Available Networks
+ Enter Administrator Password|  Enter Administrator Password
+Current Call Server| Current Call Server
+Device Move Detected| Device Move Detected
+Did you move to a new address?\n\nYes - Update your emergency location information| Did you move to a new address?\n\nYes - Update your emergency location information
+Manual Upgrade| Manual Upgrade
+Password| Password
+Dimmer Level| Dimmer Level
+| 
+| 
+AQUARIUS_5 prompts| 
+Network General Info| Network General Info
+Network Persist. Data| Network Persist. Data
+Network DHCP Info| Network DHCP Info
+Network QoS| Network QoS
+Lease Remaining (Seconds)| Lease Remaining (Seconds)
+key opens Voicemail App| key opens Voicemail App
+Available Networks| Available Networks
+ Enter Administrator Password|  Enter Administrator Password
+Current Call Server| Current Call Server
+Device Move Detected| Device Move Detected
+Did you move to a new address?\n\nYes - Update your emergency location information| Did you move to a new address?\n\nYes - Update your emergency location information
+Manual Upgrade| Manual Upgrade
+Password| Password
+Dimmer Level| Dimmer Level
+| 
+| 
+AQUARIUS_6 prompts| 
+Network General Info| Network General Info
+Network Persist. Data| Network Persist. Data
+Network DHCP Info| Network DHCP Info
+Network QoS| Network QoS
+Lease Remaining (Seconds)| Lease Remaining (Seconds)
+key opens Voicemail App| key opens Voicemail App
+Available Networks| Available Networks
+ Enter Administrator Password|  Enter Administrator Password
+Current Call Server| Current Call Server
+Device Move Detected| Device Move Detected
+Did you move to a new address?\n\nYes - Update your emergency location information| Did you move to a new address?\n\nYes - Update your emergency location information
+Manual Upgrade| Manual Upgrade
+Password| Password
+Dimmer Level| Dimmer Level
+| 
+Common prompts| 
+Dot "."| Dot "."
+NextSpace| NextSpace
+Transfer Failed| Transfer Failed
+Network| Network
+Settings| Settings
+Ethernet Ports| Ethernet Ports
+Ethernet & VLAN| Ethernet & VLAN
+Restart| Restart
+Port Mirroring| Port Mirroring
+Energy Efficient| Energy Efficient
+LAN| LAN
+LAN and PC| LAN and PC
+Audio Feedback| Audio Feedback
+Audio Path| Audio Path
+Button Beep| Button Beep
+Error Beep| Error Beep
+Made| Made
+To my prime line| To my prime line
+To any appearance| To any appearance
+Display Call Info| Display Call Info
+Account| Account
+All| All
+Any| Any
+Always| Always
+Busy Internal| Busy Internal
+Busy External| Busy External
+Default| Default
+No Answer Internal| No Answer Internal
+No Answer External| No Answer External
+Attendant| Attendant
+Backspace| Backspace
+Busy| Busy
+Call Forward| Call Forward
+All Off| All Off
+Copy to All?| Copy to All?
+Corporate| Corporate
+Credentials| Credentials
+Current Password| Current Password
+Done| Done
+Enable/Disable| Enable/Disable
+Enterprise Directory| Enterprise Directory
+Enterprise Common Directory| Enterprise Common Directory
+Exchange Contacts| Exchange Contacts
+Exit| Exit
+Group Directory| Group Directory
+Group Common Directory| Group Common Directory
+External Sources| External Sources
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Labels| Labels
+Last%c First| Last%c First
+LDAP| LDAP
+Microsoft Exchange| Microsoft Exchange
+New Password| New Password
+Not Configured| Not Configured
+Option 43| Option 43
+Option 66| Option 66
+Option 159| Option 159
+Option 160| Option 160
+Loading Page...| Loading Page...
+Loading...| Loading...
+Personal| Personal
+Personal Contacts| Personal Contacts
+Lock the phone?| Lock the phone?
+PIN Changed| PIN Changed
+Please Wait...| Please Wait...
+Password Changed| Password Changed
+Quit| Quit
+Restart| Restart
+Restarting...| Restarting...
+Enter Again| Enter Again
+Save| Save
+Erase| Erase
+Erase Settings?| Erase Settings?
+Select| Select
+Set All| Set All
+Set Audio| Set Audio
+Test| Test
+Test Connection| Test Connection
+Time Zone| Time Zone
+Unavailable| Unavailable
+VLAN Settings| VLAN Settings
+Voicemail and Recordings| Voicemail and Recordings
+Voicemail User Login| Voicemail User Login
+Voicemail| Voicemail
+New| New
+Recorded| Recorded
+Broadsoft XSI| Broadsoft XSI
+Advanced| Advanced
+Log Issue| Log Issue
+Log Issue?| Log Issue?
+Audio Diagnostics| Audio Diagnostics
+Avatars| Avatars
+All Accounts| All Accounts
+Configuration Server| Configuration Server
+Name| Name
+Please enter a name| Please enter a name
+Please enter a number| Please enter a number
+Phonebook| Phonebook
+Update| Update
+Connect| Connect
+Contrast| Contrast
+Copyright| Copyright
+%d/%d records| %d/%d records
+Disabled| Disabled
+Download Protocol| Download Protocol
+Enabled| Enabled
+Administrator access is disabled| Administrator access is disabled
+ Enter Unlock Password|  Enter Unlock Password
+Erase Local Configuration?| Erase Local Configuration?
+Invalid IP Address| Invalid IP Address
+Invalid Address| Invalid Address
+Error (Min:%d Max:%d)| Error (Min:%d Max:%d)
+Invalid %s (%d to %d)| Invalid %s (%d to %d)
+Invalid Setting| Invalid Setting
+Must be a nonzero number| Must be a nonzero number
+Must be a valid number| Must be a valid number
+Must not be empty| Must not be empty
+Not in range| Not in range
+Cancel| Cancel
+Pause| Pause
+Flash| Flash
+Factory Default?| Factory Default?
+FTP| FTP
+Full 1000Mbps| Full 1000Mbps
+Full 100Mbps| Full 100Mbps
+Auto 100Mbps| Auto 100Mbps
+Full 10Mbps| Full 10Mbps
+HTTP| HTTP
+HTTPS| HTTPS
+Incorrect password| Incorrect password
+Input Language| Input Language
+Please input a duration between 1 and 1440 minutes| Please input a duration between 1 and 1440 minutes
+Please input a duration between 1 and 5 minutes| Please input a duration between 1 and 5 minutes
+Language| Language
+On| On
+Status| Status
+Level 0| Level 0
+Level 1| Level 1
+Level 2| Level 2
+Level 3| Level 3
+Level 4| Level 4
+Level 5| Level 5
+Line: %d| Line: %d
+1 day stored| 1 day stored
+%d days stored| %d days stored
+Static Network Settings| Static Network Settings
+Teleworker Settings| Teleworker Settings
+No| No
+Number| Number
+OK| OK
+Options List| Options List
+Phone will restart automatically after finishing.| Phone will restart automatically after finishing.
+Enter| Enter
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+Reset| Reset
+Restore Default| Restore Default
+Reset Configuration?| Reset Configuration?
+Restart Phone?| Restart Phone?
+Restart Phone| Restart Phone
+Speed Dial Edit| Speed Dial Edit
+Bottom Softkey %d| Bottom Softkey %d
+Exp. Mod. %d Key %d| Exp. Mod. %d Key %d
+Speed Dial Key %d| Speed Dial Key %d
+Left Softkey %d| Left Softkey %d
+Top Softkey %d| Top Softkey %d
+Start| Start
+Stop| Stop
+Sys Info| Sys Info
+TCP DUMP| TCP DUMP
+TCP DUMP?| TCP DUMP?
+Tracerouting...| Tracerouting...
+Tracert Complete| Tracert Complete
+Traceroute| Traceroute
+TFTP| TFTP
+Time and Date| Time and Date
+Upload System Info Files?| Upload System Info Files?
+Use Network Time| Use Network Time
+User Settings| User Settings
+Yes| Yes
+BLF Privacy| BLF Privacy
+PIN Confirm?| PIN Confirm?
+Do Not Disturb| Do Not Disturb
+Page 1| Page 1
+Page 2| Page 2
+Page 3| Page 3
+Files Sent| Files Sent
+Filtering| Filtering
+Lock| Lock
+Enter PIN| Enter PIN
+No Answer| No Answer
+No Error Messages| No Error Messages
+Pin incorrect| Pin incorrect
+Please restart the phone for the settings to take effect.| Please restart the phone for the settings to take effect.
+Unlock| Unlock
+Upload| Upload
+Use DHCP?| Use DHCP?
+DHCP User Class| DHCP User Class
+DHCP Download Options| DHCP Download Options
+IP Address| IP Address
+Subnet Mask| Subnet Mask
+Gateway| Gateway
+IP/Subnet/Gateway| IP/Subnet/Gateway
+Half 1000Mbps| Half 1000Mbps
+DNS Servers| DNS Servers
+Primary DNS| Primary DNS
+Secondary DNS| Secondary DNS
+seconds| seconds
+minutes| minutes
+Hostname| Hostname
+Invalid subnet mask| Invalid subnet mask
+Invalid gateway address| Invalid gateway address
+IP cannot be equal to gateway address| IP cannot be equal to gateway address
+Invalid TFTP Port| Invalid TFTP Port
+IP and gateway have to be on the same subnet| IP and gateway have to be on the same subnet
+Call Server| Call Server
+Timeout 1-1440 Min| Timeout 1-1440 Min
+Timeout 1-5 Minutes| Timeout 1-5 Minutes
+Timeout 1-3 Minutes| Timeout 1-3 Minutes
+Capture| Capture
+Packet Capture| Packet Capture
+Audio Capture| Audio Capture
+Start Capture| Start Capture
+Start Capture?| Start Capture?
+Stop Capture| Stop Capture
+Stop Capture?| Stop Capture?
+Duration(Minutes)| Duration(Minutes)
+Packets Tx:| Packets Tx:
+Packets Rx:| Packets Rx:
+RTT min/avg/max| RTT min/avg/max
+traceroute to| traceroute to
+hops max| hops max
+byte packets| byte packets
+Call Server IP Address| Call Server IP Address
+TFTP Server IP Address| TFTP Server IP Address
+TFTP Server| TFTP Server
+IPA IP Address| IPA IP Address
+IPA Server| IPA Server
+Firmware Info| Firmware Info
+Platform| Platform
+Phone Info| Phone Info
+MAC Address| MAC Address
+Advanced Settings| Advanced Settings
+Back| Back
+Ping| Ping
+Test POE| Test POE
+Host Name or IP Address| Host Name or IP Address
+Hostname/IP addr.| Hostname/IP addr.
+Please enter a valid HostName/IP Address| Please enter a valid HostName/IP Address
+Pinging %s...| Pinging %s...
+Pinging...| Pinging...
+Line 1| Line 1
+Static IPv4| Static IPv4
+Today| Today
+Yesterday| Yesterday
+Monday| Monday
+Tuesday| Tuesday
+Wednesday| Wednesday
+Thursday| Thursday
+Friday| Friday
+Saturday| Saturday
+Sunday| Sunday
+Copy| Copy
+Add Contact| Add Contact
+Dial| Dial
+Cannot dial a private number| Cannot dial a private number
+Cannot copy a private number| Cannot copy a private number
+Number not available| Number not available
+Edit| Edit
+Delete| Delete
+Request Failed| Request Failed
+Request Cancelled| Request Cancelled
+Request timed out| Request timed out
+Jan| Jan
+Feb| Feb
+Mar| Mar
+Apr| Apr
+May| May
+Jun| Jun
+Jul| Jul
+Aug| Aug
+Sep| Sep
+Oct| Oct
+Nov| Nov
+Dec| Dec
+Sun| Sun
+Mon| Mon
+Tue| Tue
+Wed| Wed
+Thu| Thu
+Fri| Fri
+Sat| Sat
+Delete all entries in %s?| Delete all entries in %s?
+Delete all contacts from %s?| Delete all contacts from %s?
+Warning - All entries in %s will also be deleted| Warning - All entries in %s will also be deleted
+Delete %s from %s?| Delete %s from %s?
+Deleting mobile contacts| Deleting mobile contacts
+Search| Search
+Search contacts| Search contacts
+Search Corporate| Search Corporate
+Enter name| Enter name
+Lastname Firstname| Lastname Firstname
+No Matches Found| No Matches Found
+Replace| Replace
+Merge| Merge
+Add New| Add New
+LLDP Settings| LLDP Settings
+CDP Settings| CDP Settings
+Current Network Settings| Current Network Settings
+VLAN Id| VLAN Id
+DSCP Default| DSCP Default
+DSCP Voice| DSCP Voice
+DSCP Signaling| DSCP Signaling
+DSCP Other| DSCP Other
+L2P Default| L2P Default
+L2P Voice| L2P Voice
+L2P Signaling| L2P Signaling
+L2P Other| L2P Other
+Modify PIN| Modify PIN
+More ...| More ...
+PIN| PIN
+Registering...| Registering...
+Erase PIN| Erase PIN
+Erase PIN?| Erase PIN?
+Invalid Hostname| Invalid Hostname
+Basic Settings| Basic Settings
+LAN Port VLAN| LAN Port VLAN
+Error| Error
+Warning| Warning
+Missed| Missed
+Outgoing| Outgoing
+Received| Received
+No Outgoing Calls| No Outgoing Calls
+No Received Calls| No Received Calls
+No Missed Calls| No Missed Calls
+No Mobile Calls| No Mobile Calls
+Call History| Call History
+Call History is Empty| Call History is Empty
+Call History currently not available| Call History currently not available
+Duration| Duration
+Business Fax| Business Fax
+City| City
+Organization| Organization
+Contact already exists| Contact already exists
+Country| Country
+Delete selected item or delete all items?| Delete selected item or delete all items?
+Details| Details
+Directory empty| Directory empty
+Directory not available at this time| Directory not available at this time
+Configuration changes detected\nApplication must be closed| Configuration changes detected\nApplication must be closed
+Edit Details| Edit Details
+Email 1| Email 1
+Email 2| Email 2
+Email 3| Email 3
+Email| Email
+Cannot add new record. Limit reached.| Cannot add new record. Limit reached.
+Failed to retrieve contact details| Failed to retrieve contact details
+First Name| First Name
+Home 1| Home 1
+Home 2| Home 2
+Home Address| Home Address
+Home Screen| Home Screen
+Home Screen Mode| Home Screen Mode
+Mode %d| Mode %d
+Home| Home
+Job Title| Job Title
+Last Name| Last Name
+Local| Local
+People| People
+Mobile| Mobile
+New Contact| New Contact
+Contacts - Add New| Contacts - Add New
+No changes made| No changes made
+Numbers| Numbers
+Other| Other
+Province/State| Province/State
+Street Address| Street Address
+Unknown| Unknown
+Work| Work
+Work 2| Work 2
+Work Address| Work Address
+Zip/Postal Code| Zip/Postal Code
+Delete All| Delete All
+Entry copied to| Entry copied to
+Delete Item| Delete Item
+Desktop Portal URL| Desktop Portal URL
+Directory| Directory
+Contacts| Contacts
+Bluetooth| Bluetooth
+Settings - Bluetooth| Settings - Bluetooth
+Scan| Scan
+Screen Saver| Screen Saver
+Screen Saver Timer| Screen Saver Timer
+Screen Dimmer| Screen Dimmer
+Dimmer Timer| Dimmer Timer
+second| second
+Paired Devices| Paired Devices
+Paired| Paired
+Available Devices| Available Devices
+| 
+Available| Available
+Swipe the toggle switch to the right to enable Bluetooth| Swipe the toggle switch to the right to enable Bluetooth
+Press the Turn On softkey to enable Bluetooth| Press the Turn On softkey to enable Bluetooth
+Pairing| Pairing
+Connecting| Connecting
+Device| Device
+DHCP Settings| DHCP Settings
+No paired devices| No paired devices
+Connected successfully| Connected successfully
+Connection failed| Connection failed
+Disconnection successful| Disconnection successful
+Disconnection failed| Disconnection failed
+Directory import failed| Directory import failed
+Directory is full| Directory is full
+Directory full| Directory full
+Directory?| Directory?
+Directory loading| Directory loading
+Pairing failed| Pairing failed
+Please unpair this device from %s and try again| Please unpair this device from %s and try again
+Operation failed| Operation failed
+Connected| Connected
+Retry| Retry
+Forgetting Device...| Forgetting Device...
+Do you want to forget this device?| Do you want to forget this device?
+Do you want to connect this device?| Do you want to connect this device?
+Do you want to disconnect this device?| Do you want to disconnect this device?
+Close| Close
+Press 'OK' to attempt MiCloud Connect auto-register. Or enter DID and Password if provided.| Press 'OK' to attempt MiCloud Connect auto-register. Or enter DID and Password if provided.
+Enabling Bluetooth...| Enabling Bluetooth...
+Disabling Bluetooth...| Disabling Bluetooth...
+Connecting...| Connecting...
+Disconnecting...| Disconnecting...
+%s connected| %s connected
+%s disconnected| %s disconnected
+%s temporarily disconnected| %s temporarily disconnected
+%s temporarily disconnected. PC Audio is now on your PC.| %s temporarily disconnected. PC Audio is now on your PC.
+%s audio connected| %s audio connected
+%s audio connection failed| %s audio connection failed
+ Unable to pair. Retry after this call.|  Unable to pair. Retry after this call.
+Unable to connect. Device will reconnect after this call.| Unable to connect. Device will reconnect after this call.
+Unable to connect. Retry after this call.| Unable to connect. Retry after this call.
+Bluetooth pairing request| Bluetooth pairing request
+Pair with %s\nPairing code - %06ld| Pair with %s\nPairing code - %06ld
+Failed to disable Bluetooth| Failed to disable Bluetooth
+Failed to enable Bluetooth| Failed to enable Bluetooth
+Do you want to get the device's contacts?| Do you want to get the device's contacts?
+Retrieving contacts...| Retrieving contacts...
+Contacts retrieved successfully| Contacts retrieved successfully
+Phonebook retrieval unavailable| Phonebook retrieval unavailable
+ Failed to retrieve contacts|  Failed to retrieve contacts
+Call History retrieval unavailable| Call History retrieval unavailable
+Failed to retrieve Call History| Failed to retrieve Call History
+Ongoing Call| Ongoing Call
+Pair| Pair
+Press scan to find a device| Press scan to find a device
+Please Wait. Scanning for nearby devices| Please Wait. Scanning for nearby devices
+Connect Automatically| Connect Automatically
+Backlight On Time| Backlight On Time
+Available Devices| Available Devices
+Paired Devices| Paired Devices
+Pairing ...| Pairing ...
+Successfully paired| Successfully paired
+Unable to pair with the device| Unable to pair with the device
+Bluetooth pairing request| Bluetooth pairing request
+Does the passkey match?| Does the passkey match?
+Unpair| Unpair
+Bluetooth is currently off.| Bluetooth is currently off.
+Turn Off| Turn Off
+Turn On| Turn On
+Sorry! Unable to turn Bluetooth on. | Sorry! Unable to turn Bluetooth on. 
+Sorry! Too many devices paired.| Sorry! Too many devices paired.
+Only one Handset can be paired to this phone| Only one Handset can be paired to this phone
+Only one Mitel S720 Bluetooth Speakerphone can be paired to this phone| Only one Mitel S720 Bluetooth Speakerphone can be paired to this phone
+Only one Mitel S720 BT Speakerphone can be paired to this phone| Only one Mitel S720 BT Speakerphone can be paired to this phone
+Forget| Forget
+Unknown Caller| Unknown Caller
+Unknown| Unknown
+Answer| Answer
+Decline| Decline
+DHSG| DHSG
+DHSG is ON| DHSG is ON
+DHSG is OFF| DHSG is OFF
+Push Call| Push Call
+End Call| End Call
+Caller| Caller
+Capturing ...| Capturing ...
+Complete ...| Complete ...
+Collecting Logs ...| Collecting Logs ...
+Speaker| Speaker
+Speaker/Headset| Speaker/Headset
+External Speaker| External Speaker
+Factory Default| Factory Default
+Restoring factory default and restarting ...| Restoring factory default and restarting ...
+Headset| Headset
+Handset| Handset
+Ringer| Ringer
+Music| Music
+Idle| Idle
+Held| Held
+Ringing| Ringing
+Xfer| Xfer
+Display| Display
+Audio| Audio
+Ring Tones| Ring Tones
+Internal Ring| Internal Ring
+External Ring| External Ring
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+Classic 1| Classic 1
+Classic 2| Classic 2
+Classic 3| Classic 3
+Classic 4| Classic 4
+Classic 5| Classic 5
+Classic 6| Classic 6
+Classic 7| Classic 7
+Classic 8| Classic 8
+Classic 9| Classic 9
+Classic 10| Classic 10
+Call Notification| Call Notification
+Config Teleworker| Config Teleworker
+Diagnostics| Diagnostics
+MinetDump| MinetDump
+Float Keys| Float Keys
+Network Services| Network Services
+DHCP Trace| DHCP Trace
+DHCPv6 Trace| DHCPv6 Trace
+802.1x| 802.1x
+Firewall Settings| Firewall Settings
+Wi-Fi| Wi-Fi
+Port Info| Port Info
+Error Message| Error Message
+TFTP Server Port| TFTP Server Port
+Call Server 1| Call Server 1
+Call Server 2| Call Server 2
+Call Server 3| Call Server 3
+Call Server 4| Call Server 4
+DHCP Status| DHCP Status
+DHCP Server| DHCP Server
+T1 (Seconds)| T1 (Seconds)
+T1 Left (Seconds)| T1 Left (Seconds)
+T2 (Seconds)| T2 (Seconds)
+T2 Left (Seconds)| T2 Left (Seconds)
+T3 (Seconds)| T3 (Seconds)
+T3 Left (Seconds)| T3 Left (Seconds)
+Lease Remaining Left (Seconds)| Lease Remaining Left (Seconds)
+LAN Port Speed| LAN Port Speed
+LAN Port Duplex| LAN Port Duplex
+PC Port Speed| PC Port Speed
+PC Port Duplex| PC Port Duplex
+Model| Model
+Phone Uptime| Phone Uptime
+Call Server Rev.| Call Server Rev.
+Main Version| Main Version
+Boot Version| Boot Version
+Brightness| Brightness
+Brightness Timer| Brightness Timer
+Brightness Level| Brightness Level
+LAN Port| LAN Port
+PC Port| PC Port
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Test Modes| Test Modes
+LAN Port T1| LAN Port T1
+LAN Port T4| LAN Port T4
+PC Port T1| PC Port T1
+PC Port T4| PC Port T4
+Auto| Auto
+EAP-Type| EAP-Type
+Identity| Identity
+Save to Confirm or Cancel to Revert| Save to Confirm or Cancel to Revert
+Hardware Rev.| Hardware Rev.
+Headset/Speaker| Headset/Speaker
+Change| Change
+Change Password| Change Password
+Cloud Domain| Cloud Domain
+Confirm Password| Confirm Password
+ Blank|  Blank
+ Wrong|  Wrong
+ Passwords don't match.|  Passwords don't match.
+No Link| No Link
+Half-Duplex| Half-Duplex
+Full_Duplex| Full_Duplex
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| Copyright Mitel Networks Corporation 2016.\nAll rights reserved.
+Copyright Mitel Networks Corporation | Copyright Mitel Networks Corporation 
+.\nAll rights reserved.| .\nAll rights reserved.
+\n\nPrivacy Policy\nhttps://www.mitel.com/legal/mitel-application-privacy-policy| \n\nPrivacy Policy\nhttps://www.mitel.com/legal/mitel-application-privacy-policy
+Proxy Logoff| Proxy Logoff
+No Network| No Network
+Contacting Server| Contacting Server
+Contrast Level| Contrast Level
+Logging Issue| Logging Issue
+Logging Issue..| Logging Issue..
+Logging Issue....| Logging Issue....
+Logging Issue......| Logging Issue......
+Logging Issue........| Logging Issue........
+Private| Private
+Miscellaneous| Miscellaneous
+Programmable Key| Programmable Key
+Speed Call| Speed Call
+Other Features| Other Features
+Account Code Verified| Account Code Verified
+Acct Verified| Acct Verified
+Call Forward Always| Call Forward Always
+Fwd Always| Fwd Always
+DND| DND
+Phone Lock| Phone Lock
+Account Code Non Verified| Account Code Non Verified
+Acct Non-Ver| Acct Non-Ver
+Name or Number is empty| Name or Number is empty
+Label Name| Label Name
+Rename| Rename
+Rename this device| Rename this device
+PKM version| PKM version
+Mobile Line| Mobile Line
+Mobile/PC Line| Mobile/PC Line
+Department| Department
+Location| Location
+Phone Numbers| Phone Numbers
+Softphone| Softphone
+ Max Exceeded|  Max Exceeded
+Searching| Searching
+External Contacts| External Contacts
+Press "%s" key to search external contacts| Press "%s" key to search external contacts
+Press "%s" key to search corporate contacts| Press "%s" key to search corporate contacts
+Too many answers\nRefine your search| Too many answers\nRefine your search
+Not available\nConfiguration error| Not available\nConfiguration error
+Not available\nPlease contact your administrator| Not available\nPlease contact your administrator
+#Confirm| #Confirm
+My Phone| My Phone
+My Mobile| My Mobile
+DHCP Trace information is not available| DHCP Trace information is not available
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| IP Conflict Detected
+IP&MAC Addresses| IP&MAC Addresses
+Do you want to save this IP?| Do you want to save this IP?
+Max allowed Number length is 26| Max allowed Number length is 26
+Enabling DHSG Headset...| Enabling DHSG Headset...
+Disabling DHSG Headset...| Disabling DHSG Headset...
+Restarting Network...| Restarting Network...
+Remember passcode| Remember passcode
+Remember my passcode| Remember my passcode
+Passcode| Passcode
+Mailbox Number| Mailbox Number
+Login| Login
+Login failed| Login failed
+To| To
+Send| Send
+Voicemail has been sent.| Voicemail has been sent.
+Error in sending Voicemail. Please send it again.| Error in sending Voicemail. Please send it again.
+Voicemail has been sent to email.| Voicemail has been sent to email.
+Error in sending to Email.| Error in sending to Email.
+Passcode is incorrect. Enter a valid passcode.| Passcode is incorrect. Enter a valid passcode.
+Invalid mailbox number.| Invalid mailbox number.
+Error - Mailbox in use| Error - Mailbox in use
+Error - maximum sessions exceeded| Error - maximum sessions exceeded
+Error - no session exists| Error - no session exists
+Error - bad extension| Error - bad extension
+Mailbox locked for security reasons. See your system administrator.| Mailbox locked for security reasons. See your system administrator.
+%s - %d% battery remaining| %s - %d% battery remaining
+Low Battery| Low Battery
+Replay| Replay
+Backward| Backward
+Forward| Forward
+Send To| Send To
+Logout| Logout
+To Email| To Email
+Delete Failure| Delete Failure
+Play Failure| Play Failure
+Play Failure due to a system error. See your system administrator.| Play Failure due to a system error. See your system administrator.
+Save Failure| Save Failure
+| 
+DECT Headset Version| DECT Headset Version
+DECT Power/Bandwidth| DECT Power/Bandwidth
+Wideband| Wideband
+Narrowband| Narrowband
+Very Low Power| Very Low Power
+Low Power| Low Power
+High Power| High Power
+Dump DECT Logs| Dump DECT Logs
+| 
+Cordless Handset Version| Cordless Handset Version
+Receipt Confirmation| Receipt Confirmation
+Only one Mobile Line key can be programmed.| Only one Mobile Line key can be programmed.
+Only one Mobile/PC Line key can be programmed.| Only one Mobile/PC Line key can be programmed.
+File Server| File Server
+Invalid URI| Invalid URI
+Connect Timeout| Connect Timeout
+File Not Found| File Not Found
+Cannot display| Cannot display
+Application| Application
+Off| Off
+WaveStreaming| WaveStreaming
+Invalid Time| Invalid Time
+Invalid Date| Invalid Date
+Refresh| Refresh
+Saved Network| Saved Network
+WLAN adapter is not connected| WLAN adapter is not connected
+No Saved Network| No Saved Network
+Enter Password| Enter Password
+Searching for networks| Searching for networks
+Save Settings| Save Settings
+Reboot WLAN adapter and phone to save settings?| Reboot WLAN adapter and phone to save settings?
+Voice Services| Voice Services
+Service Type| Service Type
+Set| Set
+MiVoice Border Gateway| MiVoice Border Gateway
+MiV BorderGateway| MiV BorderGateway
+MiCloud Connect| MiCloud Connect
+MiVoice Connect| MiVoice Connect
+Restart to SIP| Restart to SIP
+Remote Upgrade (SIP)| Remote Upgrade (SIP)
+Remote Upgrade (MiNet)| Remote Upgrade (MiNet)
+F/W Download Failed\nUnable to download from\n%s| F/W Download Failed\nUnable to download from\n%s
+Downloading new main firmware.\nPhone will reboot automatically.| Downloading new main firmware.\nPhone will reboot automatically.
+Upgrade main done| Upgrade main done
+Upgrade main not required| Upgrade main not required
+Upgrade main not required (incompatible version).| Upgrade main not required (incompatible version).
+User DID| User DID
+Use xx to view| Use xx to view
+Invalid %s| Invalid %s
+Domain (required)| Domain (required)
+Register| Register
+Register?| Register?
+USB Wireless| USB Wireless
+Enabling USB Wireless...| Enabling USB Wireless...
+Disabling USB Wireless...| Disabling USB Wireless...
+Next| Next
+Server Address| Server Address
+Log capture in progress| Log capture in progress
+Stopping Log capture| Stopping Log capture
+Audio capture in progress| Audio capture in progress
+Stopping audio capture| Stopping audio capture
+Backlight| Backlight
+Incoming Call| Incoming Call
+Incoming Call from %s| Incoming Call from %s
+Incoming Call from %s (%s)| Incoming Call from %s (%s)
+Not Available Yet| Not Available Yet
+Restart Network| Restart Network
+Restart Network?| Restart Network?
+Config Server| Config Server
+Teleworker| Teleworker
+DSP TE| DSP TE
+DSP TE| DSP TE
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+15| 15
+15| 15
+15| 15
+15| 15
+15| 15
+80| 80
+20| 20
+15| 15
+15| 15
+15| 15
+15| 15
+15| 15
+15| 15
+15| 15
+15| 15
+15| 15
+| 
+80| 80
+20| 20
+20| 20
+15| 15
+Press # on the dialpad to enter a Dot "."| Press # on the dialpad to enter a Dot "."
+Use TFTP| Use TFTP
+Use FTP| Use FTP
+Use HTTP| Use HTTP
+Use HTTPS| Use HTTPS
+TFTP Server| TFTP Server
+TFTP Port| TFTP Port
+TFTP Path| TFTP Path
+FTP Server| FTP Server
+FTP Path| FTP Path
+FTP Username| FTP Username
+FTP Password| FTP Password
+HTTP Server| HTTP Server
+HTTP Port| HTTP Port
+HTTP Path| HTTP Path
+HTTPS Server| HTTPS Server
+HTTPS Port| HTTPS Port
+HTTPS Path| HTTPS Path
+15| 15
+15| 15
+15| 15
+15| 15
+15| 15
+15| 15
+15| 15
+60| 60
+60| 60
+60| 60
+40| 40
+40| 40
+40| 40
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+Max allowed Name length is 20| Max allowed Name length is 20
+13| 13
+| 
+| 
+| 
+| 
+Reboot phone to save settings?| Reboot phone to save settings?
+Enabling Wi-Fi...| Enabling Wi-Fi...
+Disabling Wi-Fi...| Disabling Wi-Fi...
+Save and Connect?| Save and Connect?
+USB Overload detected| USB Overload detected
+Remove USB device and then press OK.| Remove USB device and then press OK.
+Enter Username| Enter Username
+LAN IP Address| LAN IP Address
+Wi-Fi IP Address| Wi-Fi IP Address
+LAN MAC Address| LAN MAC Address
+Wi-Fi MAC Address| Wi-Fi MAC Address
+Connected SSID| Connected SSID
+Not Connected| Not Connected
+Confirm Region| Confirm Region
+Is this phone being deployed within the United States?| Is this phone being deployed within the United States?
+Please contact system administrator to enable Wi-Fi| Please contact system administrator to enable Wi-Fi
+Wi-Fi Option?| Wi-Fi Option?
+No Ethernet cable attached\n would you like to connect via Wi-Fi?| No Ethernet cable attached\n would you like to connect via Wi-Fi?
+Wi-Fi is not allowed!| Wi-Fi is not allowed!
+This phone is not permitted to connect via Wi-Fi\nplease plug phone in via Ethernet cable and select OK| This phone is not permitted to connect via Wi-Fi\nplease plug phone in via Ethernet cable and select OK
+Auto Country| Auto Country
+Country Code Changed\n phone will reboot| Country Code Changed\n phone will reboot
+| 
+16| 16
+Supplied Power is Insufficient| Supplied Power is Insufficient
+Recommend using 48V Power Adapter| Recommend using 48V Power Adapter
+Add Network| Add Network
+Hidden Network| Hidden Network
+Wi-Fi Settings| Wi-Fi Settings
+Security| Security
+Open| Open
+WPA2-Personal| WPA2-Personal
+WPA2-Enterprise| WPA2-Enterprise
+WPA3-Personal| WPA3-Personal
+WPA3-Enterprise| WPA3-Enterprise
+Network Name| Network Name
+Username| Username
+Guest Services| Guest Services
+Wakeup Calls| Wakeup Calls
+DND Status| DND Status
+Enter Room Number:| Enter Room Number:
+Do Not Disturb (DND)| Do Not Disturb (DND)
+Wakeup Time (24-hr format)| Wakeup Time (24-hr format)
+(24-hr format)| (24-hr format)
+2nd Wakeup (>%d mins)| 2nd Wakeup (>%d mins)
+3rd Wakeup (>%d mins)| 3rd Wakeup (>%d mins)
+Go| Go
+Clear All| Clear All
+Switch Room| Switch Room
+Tomorrow| Tomorrow
+Room| Room
+Invalid Room| Invalid Room
+Clear all wakeup calls| Clear all wakeup calls
+Would you like to clear all wakeup calls for Room %s?| Would you like to clear all wakeup calls for Room %s?
+Add up to three wakeup calls for the next 24hrs.| Add up to three wakeup calls for the next 24hrs.
+Please enter time between %s| Please enter time between %s
+There are no upcoming wakeup calls for Room %s| There are no upcoming wakeup calls for Room %s
+There are no upcoming wakeup calls| There are no upcoming wakeup calls
+DND is currently OFF| DND is currently OFF
+DND is currently ON| DND is currently ON
+Add up to 3 wakeup calls for the next 24 hours| Add up to 3 wakeup calls for the next 24 hours
+Please enter time between 00:00 and 23:59| Please enter time between 00:00 and 23:59
+Failed to Save Data| Failed to Save Data
+Failed to Retrieve Data| Failed to Retrieve Data
+Authentication Failed| Authentication Failed
+%d attempts left before your account gets locked. Please contact Administrator for assistance.| %d attempts left before your account gets locked. Please contact Administrator for assistance.
+1 attempt left before your account gets locked. Please contact Administrator for assistance.| 1 attempt left before your account gets locked. Please contact Administrator for assistance.
+Your account has been temporarily locked for %d minutes due to too many login attempts. Please try later or contact Administrator for assistance.| Your account has been temporarily locked for %d minutes due to too many login attempts. Please try later or contact Administrator for assistance.
+Network Connection Issue| Network Connection Issue
+Wakeup time needs to be %d minutes apart| Wakeup time needs to be %d minutes apart
+Failed to Delete Data| Failed to Delete Data
+Failed to Clear All Data| Failed to Clear All Data
+Must be before %s| Must be before %s
+Display off while locked| Display off while locked
+Static IPv6| Static IPv6
+Invalid Prefix len| Invalid Prefix len
+Net IPv6 Info| Net IPv6 Info
+IPv6 Addr| IPv6 Addr
+Prefix Len| Prefix Len
+Static IPv6 Settings| Static IPv6 Settings
+Net ICP List| Net ICP List
+Net DHCPv6| Net DHCPv6
+Preferred (Seconds)| Preferred (Seconds)
+Valid (Seconds)| Valid (Seconds)
+RA Flags| RA Flags
+Lifetime (sec)| Lifetime (sec)
+Recursive DNS| Recursive DNS
+Prefix| Prefix
+RA Prefix Flags| RA Prefix Flags
+Prefix Valid (sec)| Prefix Valid (sec)
+Prefix Pref (sec)| Prefix Pref (sec)
+Camera Disconnected| Camera Disconnected
+Connecting ...| Connecting ...
+Camera Unreachable| Camera Unreachable
+Connection Failed| Connection Failed
+Retrying ...| Retrying ...
+Camera connection lost - Retrying...| Camera connection lost - Retrying...
+Camera connection lost| Camera connection lost
+Camera Connected| Camera Connected
+Network Failure| Network Failure
+Stream Started| Stream Started
+System Error - Please Reboot| System Error - Please Reboot
+End| End

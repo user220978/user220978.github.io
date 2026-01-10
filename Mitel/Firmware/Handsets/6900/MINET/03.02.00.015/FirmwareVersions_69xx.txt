@@ -1,0 +1,13 @@
+#This file specifies the Firmware Versions for Mitel 69xx IP Phones (Ip69Series)
+#Entries in this file take the form of:          
+#DEVICE_TYPE  hexValue    firmwareVersion          
+#Comment lines start with '#'          
+
+SET6905        0xE2        03.02.00.015
+SET6910        0xE3        03.02.00.015
+SET6915        0xEF        03.02.00.015
+SET6920        0xD8        03.02.00.015
+SET6930        0xD9        03.02.00.015
+SET6930L        0xE5        03.02.00.015
+SET6940        0xDA        03.02.00.015
+SET6970        0xE0        03.02.00.015

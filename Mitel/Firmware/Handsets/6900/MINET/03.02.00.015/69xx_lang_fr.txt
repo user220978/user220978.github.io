@@ -1,0 +1,1019 @@
+Français (Europe)
+AQUARIUS_1 prompts| 
+Net General Info| Info gén. du rés.
+Net Persist. Data| Donn Persist rés.
+Net DHCP Info| Info DHCP rés.
+Net QoS| QoS rés.
+Lease Remaining| Achat restant
+ Enter Admin Password|  Entrer MDpasse Admin
+Current Server| Serveur actuel
+Did you move?| Avez-vous déménagé ?
+Yes-update 9-1-1 info| Oui– m-à-j info 9-1-1
+Manual Upgrade| MAJ manuelle
+Password| MdPasse
+Dimmer Level| Niveau dim.
+AQUARIUS_2 prompts| 
+Net General Info| Info gén. du rés.
+Net Persist. Data| Donn persist rés.
+Net DHCP Info| Info DHCP rés.
+Net QoS| QoS rés.
+Lease Remaining| Achat restant
+ Enter Admin Password|  Entrer MDpasse Admin
+Current Server| Serveur actuel
+Did you move?| Avez-vous déménagé ?
+Yes-update 9-1-1 info| Oui– m-à-j info 9-1-1
+Manual Upgrade| MAJ manuelle
+Password| MdPasse
+Dimmer Level| Niveau dim.
+AQUARIUS_3 prompts| 
+key opens Voicemail App| touche ouvre msg vocal
+Avail. Net.| Rés. disp.
+ Enter Administrator Password|  Entrer mot de passe d’administrateur
+Net General Info| Info gén. du rés.
+Net Persist Data| Donn persis. rés.
+Net DHCP Info| Info DHCP rés.
+Net QoS| QoS rés.
+Lease Remaining (Seconds)| Achat restant (secondes)
+Current Call Server| Serveur d’appel actuel
+Device Move Detected| Mouvement du dispositif détecté
+Did you move to a new address?\n\nYes - Update your emergency location information| Avez-vous changez d’adresse?\n\n Oui - Mettez à jour de toute urgence les renseignements sur votre nouvel emplacement
+Manual Upgrade| Mise à niveau manuelle
+Password| Mot de passe
+Dimmer Level| Niveau du gradateur
+AQUARIUS_4 prompts| 
+Network General Info| Info. gén. du réseau
+Network Persist. Data| Donn. persist. réseau
+Network DHCP Info| Info. DHCP réseau
+Network QoS| QoS réseau
+key opens Voicemail App| touche ouvre msg vocal
+Available Networks| Rés. disp.
+ Enter Administrator Password|  Entrer mot de passe d’administrateur
+Lease Remaining (Seconds)| Achat restant (secondes)
+Current Call Server| Serveur d’appel actuel
+Device Move Detected| Mouvement du dispositif détecté
+Did you move to a new address?\n\nYes - Update your emergency location information| Avez-vous changez d’adresse?\n\n Oui - Mettez à jour de toute urgence les renseignements sur votre nouvel emplacement
+Manual Upgrade| Mise à niveau manuelle
+Password| Mot de passe
+Dimmer Level| Niveau du gradateur
+AQUARIUS_5 prompts| 
+Network General Info| Info. gén. du réseau
+Network Persist. Data| Donn. persist. rés.
+Network DHCP Info| Info. DHCP réseau
+Network QoS| QoS réseau
+key opens Voicemail App| touche ouvre msg vocal
+Available Networks| Rés. disp.
+ Enter Administrator Password|  Entrer mot de passe d’administrateur
+Lease Remaining (Seconds)| Achat restant (secondes)
+Current Call Server| Serveur d’appel actuel
+Device Move Detected| Mouvement du dispositif détecté
+Did you move to a new address?\n\nYes - Update your emergency location information| Avez-vous changez d’adresse?\n\n Oui - Mettez à jour de toute urgence les renseignements sur votre nouvel emplacement
+Manual Upgrade| Mise à niveau manuelle
+Password| Mot de passe
+Dimmer Level| Niveau du gradateur
+AQUARIUS_6 prompts| 
+Network General Info| Info. gén. du réseau
+Network Persist. Data| Donn. persist. rés.
+Network DHCP Info| Info. DHCP réseau
+Network QoS| QoS réseau
+key opens Voicemail App| touche ouvre msg vocal
+Available Networks| Rés. disp.
+ Enter Administrator Password|  Entrer mot de passe d’administrateur
+Lease Remaining (Seconds)| Achat restant (secondes)
+Current Call Server| Serveur d’appel actuel
+Device Move Detected| Mouvement du dispositif détecté
+Did you move to a new address?\n\nYes - Update your emergency location information| Avez-vous changez d’adresse?\n\n Oui - Mettez à jour de toute urgence les renseignements sur votre nouvel emplacement
+Manual Upgrade| Mise à niveau manuelle
+Password| Mot de passe
+Dimmer Level| Niveau du gradateur
+Common prompts| 
+Use DHCP?| Utiliser DHCP ?
+Restart Phone?| Redémarrer tél. ?
+Firmware Info| Info logicielle
+DHSG| DHSG
+DHSG is ON| DHSG activé
+DHSG is OFF| DHSG désactivé
+Backlight On Time| Temps rétro-éclairage
+Directory| Répertoire
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+IP cannot be equal to gateway address| IP ne peut pas être égal à l'adresse de la passerelle
+OK| OK
+Directory empty| Répertoire vide
+Files Sent| Fichiers envoyés
+Upload| Télécharger
+Replace| Remplacer
+Merge| Combiner
+Delete Item| Effacer élément
+Username| Nom utilisateur
+Use xx to view| Afficher : xx
+Time and Date| Heure et date
+Language| Langue
+Busy| Occupé
+Restart| Redémarrer
+All Off| Dés. Tous
+Flash| Flash
+Dial| Composer
+Xfer| Transfert
+Reset| Réinit
+Select| Sélect.
+Speaker/Headset| HParleur/Casque
+Headset/Speaker| Casque/M libres
+Off| Désactivé
+DHCP Settings| Paramètres DHCP
+DHCP User Class| Classe ut. DHCP
+Hostname| Nom d'hôte
+IP Address| Adresse IP
+Subnet Mask| Masque sous rés.
+Gateway| Passerelle
+Primary DNS| DNS primaire
+Secondary DNS| DNS Secondaire
+LAN Port VLAN| VLAN Port LAN
+LLDP Settings| Paramètres LLDP
+Backspace| Ret.Arr
+No| Non
+Yes| Oui
+DHCP Download Options| Options téléch.
+Restart Phone| Redémarrer tél.
+Restarting...| Redémarrage...
+Auto| Auto
+DND| NPD
+Time Zone| Fuseau horaire
+Invalid Time| Heure incorrecte
+Invalid Date| Date incorrecte
+On| Activé
+Connected| Connecté
+Cancel| Annuler
+Done| Terminer
+No changes made| Aucune modif
+Unknown| Inconnu
+NextSpace| Espace
+Dot "."| Point "."
+Transfer Failed| Transfert échoué
+Call Forward| Renvoi
+All| Tous
+Any| Tout
+Contrast Level| Régler contraste
+Loading Page...| Chargement page
+Connect Timeout| Délai connexion
+File Not Found| Fichier introuv
+Cannot display| Ne peut afficher
+Use TFTP| Utiliser TFTP
+Use FTP| Utiliser FTP
+Use HTTP| Utiliser HTTP
+Use HTTPS| Utiliser HTTPS
+FTP Server| Serveur FTP
+FTP Path| Chemin FTP
+FTP Username| Nom d'usager FTP
+FTP Password| Mot de passe FTP
+HTTP Server| Serveur HTTP
+HTTP Path| Chemin HTTP
+HTTP Port| Port HTTP
+HTTPS Server| Serveur HTTPS
+HTTPS Path| Chemin HTTPS
+HTTPS Port| Port HTTPS
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Factory Default| Paramètres usine
+Factory Default?| Paramètres usine ?
+MAC Address| Adresse MAC
+Status| État
+Basic Settings| Configuration de base
+Advanced Settings| Paramètres avancés
+Platform| Plate-forme
+Boot Version| Version d'amorçage
+Option 160| Option 160
+Option 159| Option 159
+Option 66| Option 66
+Option 43| Option 43
+Account| Compte
+Line 1| Ligne 1
+Save Settings| Enregistrement des paramètres
+Enabled| Activé
+Current Password| Mot Passe actuel
+New Password| Nouveau MPasse
+Back| Retour
+Please restart the phone for the settings to take effect.| Redémarrer le téléphone pour que les modifications apportées prennent effet.
+Incoming Call| Appel entrant
+Configuration Server| Serveur configuration
+Settings| Paramètres
+Download Protocol| Protocole téléchg
+No Answer| Non réponse
+Number| Numéro
+Network| Réseau
+Invalid IP Address| Adresse IP non valide
+Invalid gateway address| Adresse passerelle non valide
+Invalid subnet mask| Masque de sous-réseau non valide
+Ring Tones| Sonneries
+Do Not Disturb| Ne pas déranger
+Save| Enregistrer
+Delete| Effacer
+Page 1| Page 1
+Page 2| Page 2
+Page 3| Page 3
+Phone Lock| Verrou. tél.
+Lock the phone?| Verrouiller tél ?
+Lock| Verrou
+Unlock| Déverrouill.
+Input Language| Langue de saisie
+Jan| jan
+Feb| fév
+Mar| mar
+Apr| avr
+May| mai
+Jun| jun
+Jul| jul
+Aug| aoû
+Sep| sep
+Oct| oct
+Nov| nov
+Dec| déc
+Sun| dim
+Mon| lun
+Tue| mar
+Wed| mer
+Thu| jeu
+Fri| ven
+Sat| sam
+Error| Erreur
+Ethernet & VLAN| Ethernet & VLAN
+Unavailable| Non disponible
+Available| Disponible
+IP&MAC Addresses| Adresses IP&MAC
+LAN Port| Port LAN
+PC Port| Port PC
+Set Audio| Réglage audio
+No Error Messages| Aucun message d'erreur
+Disabled| Désactivé
+Backlight| Rétro-éclairage
+Display| Affichage
+Speed Dial Edit| Modif NumRapide
+second| seconde
+seconds| secondes
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Identité
+Invalid URI| URI non valable
+Default| Défaut
+Not Configured| Non configuré
+Invalid Setting| Paramètre non valide
+Must not be empty| Peut pas être vide
+Must be a valid number| Doit être un nombre valide
+Must be a nonzero number| Doit être un nombre diff. de 0
+Not in range| Pas dans la plage
+Invalid Hostname| Nom d'hôte non valide
+Voicemail| Messagerie vocale
+Please Wait...| Patienter SVP...
+Options List| Liste d'options
+Directory?| Annuaire ?
+Work| Bureau
+Search| Rechercher
+Handset| Combiné
+Filtering| Filtrage
+ Enter Unlock Password| Mot de passe pour déverrouiller
+Today| Aujourd'hui
+Yesterday| Hier
+Monday| lundi
+Tuesday| mardi
+Wednesday| mercredi
+Thursday| jeudi
+Friday| vendredi
+Saturday| samedi
+Sunday| dimanche
+Set| Déf
+#Confirm| #confirmer
+Edit| Modifier
+Quit| Quitter
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Delete All| Suppr tous
+Erase Local Configuration?| Eff conf locale ?
+Audio| Audio
+Application| Application
+802.1x| 802.1x
+Brightness Timer| Tempo. luminosité
+Brightness Level| Réglage luminosité
+Level 1| Niveau 1
+Level 2| Niveau 2
+Level 3| Niveau 3
+Level 4| Niveau 4
+Level 5| Niveau 5
+(Min: %d  Max: %d)| (Min : %d  Max : %d)
+Line: %d| Ligne : %d
+Invalid %s (%d to %d)| Non valide %s (%d à %d)
+Sys Info| Info. Syst.
+Login| Connex.
+Held| En garde
+Ringing| Sonne
+Ethernet Ports| Ports Ethernet
+Call Server| Call Server
+Use Network Time| Utiliser NTP
+Speed Dial Key %d| Num. Rapide %d
+%d/%d records| %d/%d enregistrements
+%d days stored| %d jours conservés
+1 day stored| 1 jour conservé
+Upload System Info Files?| Télécharger les fichiers d'info système ?
+Please enter a number| Saisissez un numéro
+No Matches Found| Pas de correspondance trouvée
+Name| Nom
+Contact already exists| Ce contact existe déjà
+Left Softkey %d| Touche gauche %d
+Bottom Softkey %d| Touche bas %d
+All Accounts| Tous les comptes
+Exp. Mod. %d Key %d| Mod. d'ext %d Tch. %d
+Mode %d| Mode %d
+Top Softkey %d| Touche supérieure %d
+Home Screen Mode| Mode écran d’accueil
+Screen Saver Timer| Tempo. écon. écran
+Home Screen| Écran d’accueil
+Please enter a name| Veuillez saisir un nom
+Brightness| Luminosité
+Business Fax| Télécopie
+Cannot add new record. Limit reached.| Impossible d’ajouter un nouvel enregistrement. Limite atteinte.
+City| Ville
+Corporate| Groupe
+Country| Pays
+Delete %s from %s?| Supprimer %s de %s ?
+Delete all entries in %s?| Supprimer toutes les fiches dans %s ?
+Directory import failed| L’import de l’annuaire a échoué
+Directory loading| Chargement de l’annuaire
+Directory not available at this time| Annuaire non disponible en ce moment
+Edit Details| Modifier les détails
+Email| Email
+Email 1| Email 1
+Email 2| Email 2
+Email 3| Email 3
+Enterprise Directory| Annuaire Entreprise
+Exchange Contacts| Contacts Exchange
+External Sources| Sources externes
+Failed to retrieve contact details| Echec de récupération des détails des contacts
+Home 1| Dom. 1
+Home 2| Dom. 2
+Home Address| Adresse du domicile
+Job Title| Emploi
+LDAP| LDAP
+Last%c First| Nom%c Prénom 
+Last Name| Nom
+Local| Local
+Microsoft Exchange| Microsoft Exchange
+Mobile| Mobile
+New Contact| Nouveau contact
+Numbers| Numéros
+Organization| Organisation
+Other| Autre
+Personal| Personnel
+Personal Contacts| Contacts Personnl.
+Province/State| Province/Etat
+Request Failed| Echec de la demande
+Street Address| Adresse de la rue
+Test| Tester
+Test Connection| Connexion de test
+Work 2| Bureau2
+Work Address| Adresse du bureau
+Zip/Postal Code| Code Postal/ZIP
+Credentials| Identifiants
+Enable/Disable| Activer/Désactiver 
+Labels| Etiquettes
+Copy| Copier
+Add New| Ajouter
+Delete selected item or delete all items?| Supprimer l’élément sélectionné ou supprimer tous les éléments ?
+Enter Username| Nom utilisateur
+Phone Info| Info téléphone
+Attendant| Standard
+BLF Privacy| Sans supervision
+PIN| Code secret
+Capture| Capturer
+Start| Démarrer
+Stop| Stop
+Phone will restart automatically after finishing.| Le téléphone redémarrera automatiquement dès la fin de l'opération.
+Idle| Libre
+Outgoing| Sortants
+Call History is Empty| Le journal d’appels est vide
+No Outgoing Calls| Aucun appel sortant
+No Missed Calls| Aucun appel manqué
+No Received Calls| Aucun appel entrant
+Received| Entrants
+Missed| Manqués
+Enterprise Common Directory| Répertoire Commun Entreprise
+Group Directory| Répertoire Groupe
+Group Common Directory| Répertoire Commun Groupe
+Call History| Le journal d’appels
+Bluetooth| Bluetooth
+Scan| Rechercher
+Paired Devices| Périphériques appariés
+Available Devices| Périph. dispo
+Swipe the toggle switch to the right to enable Bluetooth| Faire glisser le commutateur vers la droite pour autoriser le Bluetooth 
+Pairing| Appariement en cours
+Connecting| Connexion en cours
+Device| Périphérique
+No paired devices| Pas de périphériques appariés
+Connection failed| Echec connexion
+Disconnection successful| Déconnexion réussie
+Disconnection failed| Echec déconnexion
+Pairing failed| Enreg non réussi          
+Operation failed| Echec de l’opération
+Retry| Réessayer
+Do you want to forget this device?| Voulez-vous ignorer ce périphérique ?
+Close| Fermer
+Enabling Bluetooth...| Autoriser le Bluetooth...
+Disabling Bluetooth...| Inhiber le Bluetooth...
+Connecting...| Connexion en cours...
+Disconnecting...| Déconnexion...
+Warning - All entries in %s will also be deleted| Attention – toutes les entrées de %s seront aussi supprimées
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Contacts| Contacts
+Unknown| Inconnu
+Connect| Se connecter
+%s disconnected| %s déconnecté
+%s connected| %s connecté
+Failed to disable Bluetooth| Echec de la désactivation "Bluetooth"
+Failed to enable Bluetooth| Echec de l'activation "Bluetooth"
+Port Mirroring| Miroir de port
+Audio Feedback| Effet Larsen
+Audio Path| Chemin audio
+Button Beep| Bip du bouton
+Error Beep| Bip d'erreur
+Made| Effectué
+To my prime line| Vers ma ligne principale
+To any appearance| Vers n'importe quel point d'accès de ligne
+Display Call Info| Afficher les informations d'appel
+Always| Toujours
+Busy Internal| Occupé en interne
+Busy External| Occupé en externe
+No Answer Internal| Sans réponse - interne
+No Answer External| Sans réponse - externe
+Copy to All?| Mot de passe changé
+Loading...| Chargement en cours...
+Password Changed| Mot de passe modifié
+Restore Default| Restaurer valeurs par défaut
+Enter Again| Confirmer MPasse
+Erase| Effacer
+Set All| Tout définir
+VLAN Settings| Paramètres VLAN
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Avancé
+Phonebook| Annuaire
+Update| Mettre à jour
+Copyright| Copyright
+Pause| Pause
+Incorrect password| Le mot de passe est incorrect.
+Level 0| Niveau 0
+Static Network Settings| Paramètres de réseau statique
+Enter| Entrer
+Reset Configuration?| Réinitialiser la configuration ?
+TCP DUMP| TCP DUMP
+minutes| minutes
+IP and gateway have to be on the same subnet| L'adresse IP et la passerelle doivent être sur le même sous-réseau
+Call Server IP Address| IP du serveur d'appel
+TFTP Server IP Address| IP du serveur TFTP
+IPA IP Address| Adresse IP IPA
+Ping| Ping
+Test POE| Tester le PoE
+Host Name or IP Address| Nom d'hôte ou adresse IP
+Please enter a valid HostName/IP Address| Entrez un nom d'hôte/une adresse IP valide
+Pinging %s...| Test ping sur %s...
+Add Contact| Ajouter un contact
+Cannot dial a private number| Impossible d'appeler un numéro privé
+Delete all contacts from %s?| Supprimer tous les contacts de %s ?
+Search contacts| Rechercher des contacts
+CDP Settings| Paramètres CDP
+Current Network Settings| Paramètres réseau actuels
+VLAN Id| Id VLAN
+DSCP Default| DSCP par défaut
+DSCP Voice| Voix DSCP
+DSCP Signaling| Signalisation DSCP
+DSCP Other| Autre DSCP
+L2P Default| L2P par défaut
+L2P Voice| Voix L2P
+L2P Signaling| Signalisation L2P
+L2P Other| Autre L2P
+Modify PIN| Modifier le code PIN
+Registering...| Enregistrement...
+Erase PIN| Effacer le code PIN
+Erase PIN?| Effacer le code PIN ?
+Duration| Durée
+Details| Détails
+First Name| Prénom
+Home| Maison
+People| Personnes
+Contacts - Add New| Contacts - Nouveau
+Entry copied to| Entrée copiée dans
+Settings - Bluetooth| Paramètres - Bluetooth
+Screen Saver| Écran de veille
+Paired| Couplé
+Press the Turn On softkey to enable Bluetooth| Appuyez sur la touche logicielle Activer pour activer le Bluetooth
+Connected successfully| Connexion établie
+Directory is full| Répertoire est saturé
+Directory full| Répert saturé
+Do you want to connect this device?| Voulez-vous connecter cet appareil ?
+Do you want to disconnect this device?| Voulez-vous déconnecter cet appareil ?
+%s audio connected| Audio %s connecté
+%s audio connection failed| Échec de la connexion audio %s
+Pair with %s\nPairing code - %06ld| Coupler avec %s\nCode de couplage - %06ld
+Do you want to get the device's contacts?| Voulez-vous récupérer les contacts de l'appareil ?
+Retrieving contacts...| Récupération des contacts...
+Contacts retrieved successfully| Les contacts ont bien été récupérés
+Phonebook retrieval unavailable| Récupération de l'annuaire non disponible
+ Failed to retrieve contacts|  La récupération des contacts a échoué
+Ongoing Call| Appel en cours
+Press scan to find a device| Appuyez sur Rechercher pour rechercher un appareil
+Please Wait. Scanning for nearby devices| Veuillez patienter. Recherche des appareils à proximité
+Connect Automatically| Connecter automatiquement
+Pairing ...| Appariement en cours...
+Successfully paired| Couplage réussi
+Unable to pair with the device| Impossible d'effectuer le couplage avec l'appareil
+Does the passkey match?| La clé d'accès est-elle correcte ?
+Unpair| Annuler le couplage
+Bluetooth is currently off.| Le Bluetooth est actuellement désactivé.
+Turn Off| Désactiver
+Turn On| Activer
+Turn off| Désactiver
+Turn on| Activer
+Sorry! Unable to turn Bluetooth on. | Désolé ! Impossible d'activer le Bluetooth. 
+Sorry! Too many devices paired.| Désolé ! Le nombre d'appareils couplés est trop important.
+Forget| Ignorer
+Unknown Caller| Appelant inconnu
+Answer| Réponse
+Decline| Décliner
+Push Call| Mobile
+End Call| Fin appel
+Caller| Appelant
+Disconnect| Déconnecter
+Capturing ...| Capture...
+Speaker| Haut-parleur
+Headset| Casque
+Ringer| Sonnerie
+Internal Ring| Sonnerie interne
+External Ring| Sonnerie externe
+Classic 1| Classique 1
+Classic 2| Classique 2
+Classic 3| Classique 3
+Classic 4| Classique 4
+Classic 5| Classique 5
+Classic 6| Classique 6
+Classic 7| Classique 7
+Classic 8| Classique 8
+Classic 9| Classique 9
+Classic 10| Classique 10
+Call Notification| Notification d'appels
+Config Teleworker| Configurer Télétravail
+Diagnostics| Diagnostic
+MinetDump| MinetDump
+Float Keys| Touches flottantes
+Network Services| Services réseau
+DHCP Trace| Trace DHCP
+Firewall Settings| Paramètres de pare-feu
+Wi-Fi| Wi-Fi
+Port Info| Informations sur le port
+Error Message| Message d'erreur
+TFTP Server Port| Port du serveur TFTP
+DHCP Status| État DHCP
+T1 (Seconds)| T1 (secondes)
+T1 Left (Seconds)| T1 restant (secondes)
+T2 (Seconds)| T2 (secondes)
+T2 Left (Seconds)| T2 restant (secondes)
+LAN Port Speed| Vitesse du port LAN
+LAN Port Duplex| Duplex du port LAN
+PC Port Speed| Vitesse du port PC
+PC Port Duplex| Duplex du port PC
+Model| Modèle
+Call Server Rev.| Version du serveur d'appel
+Main Version| Version principale
+Save to Confirm or Cancel to Revert| Enregistrez pour confirmer ou annulez pour revenir en arrière
+Hardware Rev.| Version du matériel
+Change| Modifier
+Change Password| Modifier le mot de passe
+Confirm Password| Confirmer le mot de passe
+ Blank|  Vide
+ Wrong|  Incorrect
+ Passwords don't match.|  Les mots de passe ne correspondent pas.
+No Link| Aucun lien
+Half-Duplex| Semi-duplex
+Full_Duplex| Duplex_intégral
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| Copyright Mitel Networks Corporation 2016.\nTous droits réservés.
+Proxy Logoff| Déconnexion du proxy
+No Network| Aucun réseau
+Contacting Server| Communication avec le serveur
+Private| Privé
+Miscellaneous| Divers
+Programmable Key| Touche programmable
+Speed Call| Appel abrégé
+Other Features| Autres fonctions
+Account Code Verified| Code comptable vérifié
+Acct Verified| Compte vérifié
+Call Forward Always| Renvoi d'appel permanent
+Fwd Always| Renvoi permanent
+Account Code Non Verified| Code comptable non vérifié
+Acct Non-Ver| Compte non vérifié
+Name or Number is empty| Le nom ou le numéro est vide
+Label Name| Nom de l'étiquette
+Rename| Renommer
+Rename this device| Renommer cet appareil
+PKM version| Version PKM
+Department| Service
+Location| Emplacement
+Softphone| Softphone
+My Phone| Mon phone
+More ...| Plus...
+Restart| Redémarrage
+Searching| Recherche
+Send| Envoyer
+Log Issue| Journal
+Logging Issue| Récupération du journal
+Administrator access is disabled| L'accès administrateur est désactivé
+Please input a duration between 1 and 1440 minutes| Indiquez une durée comprise entre 1 et 1 440 minutes
+Please input a duration between 1 and 5 minutes| Indiquez une durée comprise entre 1 et 5 minutes
+Teleworker Settings| Paramètres de Teleworker
+Invalid TFTP Port| Port TFTP non valide
+Cannot copy a private number| Impossible de copier un numéro privé
+Search Corporate| Rechercher dans les répertoires d'entreprise
+Warning| Avertissement
+Configuration changes detected\nApplication must be closed| Changements de configuration détectés\nL'application doit être fermée
+Desktop Portal URL| URL du portail du bureau
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| Type EAP
+Phone Numbers| Numéros de téléphone
+ Max Exceeded|  Maximum dépassé
+Press "%s" key to search corporate contacts| Appuyez sur la touche "%s" pour rechercher des contacts de l'entreprise
+Too many answers\nRefine your search| Trop de réponses\nAffinez votre recherche
+Not available\nConfiguration error| Non disponible\nErreur de configuration
+DHCP Trace information is not available| Informations de trace DHCP non disponibles
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| Conflit d'adresse IP détecté
+Do you want to save this IP?| Voulez-vous enregistrer cette adresse IP ?
+Max allowed Number length is 26| La longueur maximale autorisée est de 26
+Enabling DHSG Headset...| Activation du casque DHSG...
+Disabling DHSG Headset...| Désactivation du casque DHSG...
+Enter name| Entrer nom
+Lastname Firstname| Nom Prénom
+Call History currently not available| Le journal d’appels non disponible pour l'instant
+Audio Diagnostics| Diagnostics audio
+Avatars| Avatars
+Request timed out| Délai d'attente de la demande dépassé
+Complete ...| Terminé...
+Collecting Logs ...| Collecte des journaux...
+Pair| Enregistrer
+Bluetooth pairing request| Demande de couplage Bluetooth
+Login failed| Échec de la connexion
+Low Battery| Batterie faible
+Incoming Call from %s| Appel entrant de %s
+Incoming Call from %s (%s)| Appel entrant de %s (%s)
+Cloud Domain| Domaine Cloud
+Replay| Réécouter
+Backward| Revenir en arrière
+Forward| Transférer
+Send To| Envoyer vers
+Logout| Déconnexion
+To Email| À l'adresse e-mail
+Delete Failure| Échec de la suppression
+Play Failure| Échec de la lecture
+Play Failure due to a system error. See your system administrator.| Panne de lecture due à une erreur de système. Voir votre administrateur système.
+Save Failure| Échec de l'enregistrement
+Voicemail and Recordings| Enregistrements et messages vocaux
+Voicemail User Login| Identifiant utilisateur de la messagerie vocale
+Number not available| Numéro indisponible
+To| À
+Voicemail has been sent.| Le message vocal a été envoyé.
+Error in sending Voicemail. Please send it again.| Erreur lors de l’envoi du message vocal. Veuillez envoyer de nouveau.
+Voicemail has been sent to email.| Le message vocal a été envoyé à l'adresse e-mail.
+Error in sending to Email.| Erreur lors de l'envoi à l'adresse e-mail.
+New| Nouveau
+Recorded| Enregistré
+Receipt Confirmation| Confirmation du reçu
+Passcode| Mot de passe
+Mailbox Number| Numéro de boîte de réception
+Remember passcode| Mémoriser le mot de passe
+Passcode is incorrect. Enter a valid passcode.| Mot de passe incorrect. Entrer un mot de passe valide.
+Invalid mailbox number.| Numéro de boîte de réception non valide.
+Error - Mailbox in use| Erreur - boîte de réception en cours d'utilisation
+Error - maximum sessions exceeded| Erreur - nombre maximal de sessions dépassé
+Error - no session exists| Erreur - aucune session existante
+Error - bad extension| Erreur - mauvaise extension
+Mailbox locked for security reasons. See your system administrator.| Boîte vocale verrouillée pour les raisons de sécurité. Voir votre administrateur système.
+DECT Headset| Casque d’écoute DECT
+DECT Headset Version| Version du casque DECT
+Service Type| Type de service
+MiCloud Connect| MiCloud Connect
+MiVoice Border Gateway| MiVoice Border Gateway
+User DID| DID utilisateur
+Exit| Sortie
+Tracerouting...| Suivi par Tracerouting...
+Traceroute| Traceroute
+Never| Jamais
+User Settings| Paramètres utilisateur
+Invalid %s| Invalide %s
+Register| Enregistrer
+Paired Devices| Appareils appariés
+Available Devices| Appareils disponibles
+RTT min/avg/max| RTT min/moy/max
+traceroute to| traceroute vers
+hops max| sauts max
+Start Capture| Démarrer capture
+Start Capture?| Commencer capture?
+Stop Capture?| Arrêter Capture?
+Stop Capture| Arrêter la capture
+Mobile Line| Ligne mob.
+Voice Services| Services vocaux
+PIN Changed| PIN modifié
+Erase Settings?| Effacer Param?
+Log Issue?| PB journal ?
+Contrast| Contraste
+Error (Min:%d Max:%d)| Err (Min:%d Max:%d)
+TCP DUMP?| TCP DUMP?
+Tracert Complete| Tracert Terminé
+PIN Confirm?| Confirmer PIN ?
+Enter PIN| Saisir PIN
+Pin incorrect| PIN incorrect
+IP/Subnet/Gateway| IP/S-rés/Passe.
+DNS Servers| Serveur DNS
+Timeout 1-1440 Min| Exp.,1-1440 Min
+Timeout 1-5 Minutes| Exp. 1 à 5 Min
+Timeout 1-3 Minutes| Exp.1-3 Min
+Packet Capture| Capture paquet
+Audio Capture| Capture d’audio
+Duration(Minutes)| Durée (minutes)
+Packets Tx:| Paquets Tx :
+Packets Rx:| Paquets Rx :
+byte packets| Paquets d’octet
+TFTP Server| Serveur TFTP
+IPA Server| Serveur IPA
+Hostname/IP addr.| NomHôte/adr. IP
+Pinging...| Test ping...
+Request Cancelled| Requête annulée
+Deleting mobile contacts| Suppr. contacts mobiles
+No Mobile Calls| Aucun app. mob.
+Forgetting Device...| Dispositif d’oubli...
+Press 'OK' to attempt MiCloud Connect auto-register. Or enter DID and Password if provided.| Appuyez ‘OK’ pour tenter d’enreg. Auto. MiCloud Connect. Ou Entrez DID et le mot de passe, si prévu.
+%s temporarily disconnected| %s déconnecté temporairement
+ Unable to pair. Retry after this call.|  Pas d’enregistrement Réessayer après cet appel.
+Unable to connect. Device will reconnect after this call.| Connexion impossible. Le terminal se reconnectera après l'appel.
+Unable to connect. Retry after this call.| Impossible se connecter. Réessayer après cet appel.
+Call History retrieval unavailable| Récupér. histo. appels non dispo.
+Failed to retrieve Call History| Impossible récup. histo. appels
+Bluetooth pairing request| Demande de couplage Bluetooth
+Only one Handset can be paired to this phone| Le téléphone ne peut être couplé qu'à un combiné
+Only one Mitel S720 Bluetooth Speakerphone can be paired to this phone| Couplage du téléphone à 1 haut-parleur Bluetooth S720 Mitel uniquement
+Only one Mitel S720 BT Speakerphone can be paired to this phone| Couplage du téléphone à 1 haut-parleur BT S720 Mitel uniquement
+External Speaker| Haut-parl. ext.
+Restoring factory default and restarting ...| Rétablir les paramètres d’usine et redémarrer...
+Music| Musique
+Call Server 1| Serveur appel 1
+Call Server 2| Serveur appel 2
+Call Server 3| Serveur appel 3
+Call Server 4| Serveur appel 4
+DHCP Server| Serveur DHCP
+T3 (Seconds)| T3 (secondes)
+T3 Left (Seconds)| T3 gauche (sec)
+Lease Remaining Left (Seconds)| Achat rest. (sec)
+Phone Uptime| Dispo. tél.
+Test Modes| Modes de test
+LAN Port T1| Port LAN T1
+LAN Port T4| Port LAN T4
+PC Port T1| Port PC T1
+PC Port T4| Port PC T4
+Copyright Mitel Networks Corporation | Copyright Mitel Networks Corporation 
+.\nAll rights reserved.| .\nTous droits réservés.
+Logging Issue..| PB de connex..
+Logging Issue....| PB de connex....
+Logging Issue......| PB de connex......
+Logging Issue........| PB de connex........
+External Contacts| Contacts externes
+Press "%s" key to search external contacts| Appuyez sur la touche « %s » pour rechercher des contacts externes
+Not available\nPlease contact your administrator| Indisponible\nContactez votre administrateur
+My Mobile| Mon mob.
+Restarting Network...| Redémarrage du réseau...
+Remember my passcode| Mémoriser mon mot de passe
+%s - %d% battery remaining| %s - %d % de batterie restante
+DECT Power/Bandwidth| Puissance DECT/Large bande
+Only one Mobile Line key can be programmed.| Une touche Ligne mob. est programmable.
+File Server| Serv. fich.
+WaveStreaming| WaveStreaming
+Refresh| Actualiser
+Saved Network| Réseau enregistré
+WLAN adapter is not connected| L'adaptateur WLAN n'est pas connecté
+No Saved Network| Aucun réseau enregistré
+Enter Password| Saisir le mdp
+Searching for networks| Recherche de réseaux
+Reboot WLAN adapter and phone to save settings?| Redémarr. tél. et adapt. WLAN pour enreg. param. ?
+MiV BorderGateway| MiV BorderGateway
+MiVoice Connect| MiVoice Connect
+Domain (required)| Domaine (requis)
+Register?| Register ?
+USB Wireless| USB sans fil
+Enabling USB Wireless...| Activer USB sans fil...
+Disabling USB Wireless...| Désactiver USB sans fil...
+Next| Suivant
+Server Address| Adresse serveur
+Log capture in progress| Capture journal en cours
+Stopping Log capture| Arrêt. capture de journal
+Audio capture in progress| Capture audio en cours
+Stopping audio capture| Arrêter la capture audio
+Not Available Yet| Pas encore dispo.
+Restart Network| Redémar. rés.
+Restart Network?| Redémar. rés?
+Config Server| Serveur Config.
+Personal Mode| Mode personnel
+Wideband| Large bande
+Narrowband| Bande étroite
+Configuring DECT| Configurer DECT
+Disable Hotdesk Logout Pop-up| Désactiver la notification de décon. Hotdesk 
+Reflective Room| Salle réfléchissante
+Auto 100Mbps| 100Mbps Auto
+%s temporarily disconnected. PC Audio is now on your PC.| %s déconnecté temporairement. L’audio du PC est maintenant sur votre PC.
+\n\nPrivacy Policy\nhttps://www.mitel.com/legal/mitel-application-privacy-policy| \n\nPolitique de confidentialité\nhttps://www.mitel.com/legal/mitel-application-privacy-policy
+Mobile/PC Line| Ligne mobile/PC
+Only one Mobile/PC Line key can be programmed.| Seule une touche de la ligne mobile/PC peut être programmée.
+Teleworker| Télétravailleur
+DSP TE| DSP TE
+DSP TE| DSP TE
+HotDesk| HotDesk
+Hot Desk| HotDesk
+Voicedial| Composition vocale
+Speed Calls| Appels rapides
+Room Meetings| Réunions de salle
+Settings| Paramètres
+Meetings| Réunions
+Release Version| Version de la publication
+Last Commit| Dernier engagement
+External Mics| Microphones externes
+DSP FW Version| Version DSP FW
+DSP TE| DSP TE
+You are currently logged in to Hotdesk. Would you like to remain logged in?| Vous êtes actuellement connecté à Hotdesk. Voudriez-vous rester connecté?
+Keep me logged in| Maintenir ma connexion
+BLE Power| Puissance BLE
+Calibration Data| Données de calibrage
+HW Id:| HW Id:
+    MREV|     MREV
+    AVER|     MOYENNE
+    MUTE|     SOURDINE
+Enable G729 codec support| Activer le support du codec G729
+Restart needed| Redémarrage nécessaire
+Will reconnect to the server for the settings to take effect.| Se reconnecte au serveur pour que les paramètres prennent effet.
+Reconnect| Se reconnecter
+Reconnect later| Se reconnecter plus tard
+Press # on the dialpad to enter a Dot "."| Appuyez sur # sur le clavier téléphonique pour entrer un point "."
+TFTP Server| Serveur TFTP
+TFTP Port| Port TFTP
+TFTP Path| Chemin TFTP
+Bluetooth Advanced Settings| Paramètres avancés de Bluetooth
+Hot desk Only| Hot desk Seulement
+Automatically reconnect mobile phone| Reconnexion automatique du téléphone portable
+PC Audio| Audio PC
+PC| PC
+PC Connected| PC Connecté
+Bluetooth Handset is not supported for PC Audio| Le combiné Bluetooth n'est pas pris en charge pour l'audio PC
+Bluetooth Headset is not supported for PC Audio| Le casque Bluetooth n'est pas pris en charge par l'Audio PC
+S720 Bluetooth Speakerphone is not supported for PC Audio| Le haut-parleur Bluetooth S720 n'est pas pris en charge pour l'audio PC
+BT Handset is not supported for PC Audio| Le casque d'écoute BT n'est pas pris en charge pour l'Audio PC
+BT Headset is not supported for PC Audio| Le casque d'écoute BT n'est pas pris en charge pour l'Audio PC
+S720 Speakerphone is not supported for PC Audio| Le haut-parleur S720 n'est pas pris en charge par PC Audio
+Unsupported Device. Pairing denied| Dispositif non pris en charge. Appariement refusé
+Connecting this device will disconnect your PC| La connexion de ce périphérique déconnectera votre PC
+Connecting this device will disconnect your Mobile| La connexion de cet appareil entraîne la déconnexion de votre mobile
+Pair with %s| Appariement avec %s
+Please initiate pairing from the PC/MAC| Veuillez initier l'appariement depuis le PC/MAC
+Delete failure. Mailbox uninitialized. See your system administrator.| Échec de la suppression. La boîte aux lettres n'a pas été initialisée. Voir votre administrateur système.
+Connecting devices. This may take several seconds...| Connexion des périphériques. Cela peut prendre plusieurs secondes...
+Bluetooth Handset| Combiné Bluetooth
+Connecting PC Audio...| Connexion au dispositif audio du PC...
+Dump DECT Logs| Vider les journaux DECT
+High Power| Haute puissance
+Low Power| Faible puissance
+Max allowed Name length is 20| La longueur maximale autorisée du nom est de 20
+NB Level Comp| Comp. de niveau NB
+Very Low Power| Très faible puissance
+Cordless Handset Version| Version du combiné sans fil
+USB Overload detected| Surcharge USB détectée
+Remove USB device and then press OK.| Retirez le périphérique USB, puis appuyez sur OK.
+Press "Turn on" to enable Wi-Fi| Appuyez sur "Activer" pour activer le Wi-Fi
+Search Failed| Echec de recherche
+Reboot phone to save settings?| Redémarrer le téléphone pour sauvegarder les paramètres ?
+Confirm Region| Confirmer la région
+Is this phone being deployed within the United States?| Ce téléphone est-il déployé aux États-Unis ?
+Please contact system administrator to enable Wi-Fi| Veuillez contacter l'administrateur système pour activer le Wi-Fi
+LAN IP Address| Adresse IP LAN
+Wi-Fi IP Address| Adresse IP Wi-Fi
+LAN MAC Address| Adresse MAC LAN
+Wi-Fi MAC Address| Adresse MAC Wi-Fi
+Connected SSID| SSID connecté
+Enabling Wi-Fi...| Activer Wi-Fi...
+Disabling Wi-Fi...| Désactiver Wi-Fi...
+Save and Connect?| Enregistrer et connecter ?
+Bluetooth Address| Adresse Bluetooth
+Remote Upgrade (SIP)| Mise à niveau à distance (SIP)
+Remote Upgrade (MiNet)| Mise à niveau à distance (MiNet)
+F/W Download Failed\nUnable to download from\n%s| Échec du téléch. F/W\nImpossible de télécharger du\n%s
+Downloading new main firmware.\nPhone will reboot automatically.| Télécharger nouveau F/W principal.\nLe téléphone redémarrera auto.
+Upgrade main done| Mise à niveau principale effectuée
+Upgrade main not required| Mise à niveau principale non requise
+Upgrade main not required (incompatible version).| Mise à niveau du logiciel principal non requise (version incompatible).
+Energy Efficient| Effic. énerg
+LAN| LAN
+LAN and PC| LAN et PC
+Add Network| Ajouter réseau
+Hidden Network| Réseau caché
+Wi-Fi Settings| Paramètres Wi-Fi
+Security| Sécurité
+Open| Ouvrir
+WPA2-Personal| WPA2-Personnel
+WPA2-Enterprise| WPA2-Enterprise
+WPA3-Personal| WPA3-Personnel
+WPA3-Enterprise| WPA3-Enterprise
+Network Name| Nom du réseau
+Supplied Power is Insufficient| Alimentation fournie insuffisante
+Recommend using 48V Power Adapter| Recommandez un adapt. d'alimen 48V
+Not Connected| Pas Connecté
+Static IPv4| Statique IPv4
+DHCPv6 Trace| Trace DHCPv6
+Wi-Fi Option?| Option Wi-Fi ?
+No Ethernet cable attached\n would you like to connect via Wi-Fi?| Pas de câble Ethernet attaché Voulez-vous vous connecter via Wi-Fi ?
+Wi-Fi is not allowed!| Le Wi-Fi n'est pas autorisé !
+This phone is not permitted to connect via Wi-Fi\nplease plug phone in via Ethernet cable and select OK| Ce tél. n'est pas autorisé à se connecter via Wi-Fi. Branchez le tél. via un câble Ethernet et sélectionnez OK.
+Auto Country| Pays auto
+Country Code Changed\n phone will reboot| code pays changé\n Le tél. redémarrera.
+Guest Services| Services aux invités
+Wakeup Calls| Appel de réveil
+DND Status| Statut NPD
+Enter Room Number:| Saisir N° chambre :
+Do Not Disturb (DND)| Ne pas déranger (NPD)
+Wakeup Time (24-hr format)| Réveil (format 24 heures)
+(24-hr format)| (format 24 heures)
+2nd Wakeup (>%d mins)| 2è réveil (>%d min)
+3rd Wakeup (>%d mins)| 3è réveil (>%d min)
+Go| Aller
+Clear All| Effacer tout
+Switch Room| Salle machines
+Tomorrow| Demain
+Room| Salle
+Invalid Room| Salle non valide
+Clear all wakeup calls| Effacer tous les appels de réveil
+Would you like to clear all wakeup calls for Room %s?| Voulez-vous effacer les appels de réveil de salle %s ?
+Add up to three wakeup calls for the next 24hrs.| Ajoutez jusqu'à trois appels de réveil pour les 24 h.
+Please enter time between %s| Saisir l'intervalle de temps entre %s
+There are no upcoming wakeup calls for Room %s| Pas d'appels de réveil pour la salle %s
+There are no upcoming wakeup calls| Pas d'appels de réveil à venir
+DND is currently OFF| NPD est désactivé
+DND is currently ON| NPD est activé
+Add up to 3 wakeup calls for the next 24 hours| Ajouter jusqu'à 3 appels de réveil les prochaines 24 heures
+Please enter time between 00:00 and 23:59| Veuillez saisir l'heure entre 00:00 et 23:59
+Failed to Save Data| Échec de la sauvegarde des données
+Failed to Retrieve Data| Échec de la récupération des données
+Authentication Failed| Échec de l'authentification
+%d attempts left before your account gets locked. Please contact Administrator for assistance.| Il reste %d tentatives avant verrouillage de votre cpte. Contacter l'Admin pour obtenir de l'aide.
+1 attempt left before your account gets locked. Please contact Administrator for assistance.| 1 tentative restante avant le verrouillage de votre cpte. Contacter l'Admin pour obtenir de l'aide.
+Your account has been temporarily locked for %d minutes due to too many login attempts. Please try later or contact Administrator for assistance.| Cpte sera bloqué pour %d min pour plusieurs tentatives de connexion. Réessayez ou contactez l'admin pour de l'aide.
+Network Connection Issue| Problème de connexion au réseau
+Wakeup time needs to be %d minutes apart| Heure de réveil est espacée de %d min.
+Failed to Delete Data| Échec de la suppression des données
+Failed to Clear All Data| Échec d'effacement de toutes les données
+Must be before %s| Doit être avant %s
+Static IPv6| IPv6 statique
+Invalid Prefix len| Long préfixe invalide
+Net IPv6 Info| Info sur IPv6
+IPv6 Addr| Adresse IPv6
+Prefix Len| Long. préfixe
+Static IPv6 Settings| Param IPv6 stat
+Net ICP List| Liste ICP Net
+Net DHCPv6| DHCPv6 Net
+Preferred (Seconds)| Préféré (sec.)
+Valid (Seconds)| Valide (sec.)
+Invalid Address| non valide Adresse
+RA Flags| Drapeaux RA
+Lifetime (sec)| Durée (sec.)
+Recursive DNS| DNS récursif
+Prefix| Préfixe
+RA Prefix Flags| Drap. Préf. RA
+Prefix Valid (sec)| Préf. valide (sec)
+Prefix Pref (sec)| Préf. Pref (sec)
+Display off while locked| Affichage désac. lors du verr.
+Please unpair this device from %s and try again| Dissocier ce dispositif de %s et réessayer
+Restart to SIP| Redémarrer vers SIP
+Camera Disconnected| Caméra déconnectée
+Connecting ...| Connexion...
+Camera Unreachable| Caméra inaccessible
+Connection Failed| Échec connexion
+Retrying ...| Réessayer...
+Camera connection lost - Retrying...| Connex. caméra perdue - Réessayer...
+Camera connection lost| Connex. caméra perdue
+Camera Connected| Caméra connectée
+Network Failure| Échec réseau
+Stream Started| Diffusion démarrée
+System Error - Please Reboot| Erreur système - Redémarrer
+Screen Dimmer| Atténu écran
+Dimmer Timer| Minuter dim.
+End| Fin

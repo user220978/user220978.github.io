@@ -1,0 +1,1019 @@
+română
+AQUARIUS_1 prompts| 
+Net General Info| Info gen. reţ.
+Net Persist. Data| Persis. Reț. Date
+Net DHCP Info| Info DHCP reţ.
+Net QoS| QoS reţea
+Lease Remaining| Plăţi lsng răm.
+ Enter Admin Password|  Introd. parolă admin
+Current Server| Server curent
+Did you move?| V-ați mutat?
+Yes-update 9-1-1 info| Da-actualizare 911 info
+Manual Upgrade| Upgrade manual
+Password| Parolă
+Dimmer Level| Nivel lum.
+AQUARIUS_2 prompts| 
+Net General Info| Info gen. reţ.
+Net Persist. Data| Persis. Reț. Date
+Net DHCP Info| Info DHCP reţ.
+Net QoS| QoS reţea
+Lease Remaining| Plăţi lsng răm.
+ Enter Admin Password|  Introd. parolă admin
+Current Server| Server curent
+Did you move?| V-ați mutat?
+Yes-update 9-1-1 info| Da-actualizare 911 info
+Manual Upgrade| Upgrade manual
+Password| Parolă
+Dimmer Level| Nivel lum.
+AQUARIUS_3 prompts| 
+key opens Voicemail App| tasta desch. Mes. voc.
+Avail. Net.| Rețea disp.
+Net General Info| Info gen. reţ.
+Net Persist Data| Date persis. Reț.
+Net DHCP Info| Info DHCP reţ.
+Net QoS| QoS reţea
+Lease Remaining (Seconds)| Leasing rămas (secunde)
+ Enter Administrator Password|  Introducere parolă administrator
+Current Call Server| Server de apeluri curent
+Device Move Detected| Mișcare dispozitiv detectată
+Did you move to a new address?\n\nYes - Update your emergency location information| V-ați mutat la o nouă adresă?\n\nDa - Actualizați informațiile de locație în caz de urgență
+Manual Upgrade| Actualizare manuală
+Password| Parolă
+Dimmer Level| Nivel graduator
+AQUARIUS_4 prompts| 
+Network General Info| Info generale reţea
+Network Persist. Data| Date persistente reţ.
+Network DHCP Info| Info DHCP reţea
+Network QoS| QoS reţea
+key opens Voicemail App| tasta desch. Mes. voc.
+Available Networks| Rețele disponibile
+ Enter Administrator Password|  Introducere parolă administrator
+Lease Remaining (Seconds)| Leasing rămas (secunde)
+Current Call Server| Server de apeluri curent
+Device Move Detected| Mișcare dispozitiv detectată
+Did you move to a new address?\n\nYes - Update your emergency location information| V-ați mutat la o nouă adresă?\n\nDa - Actualizați informațiile de locație în caz de urgență
+Manual Upgrade| Actualizare manuală
+Password| Parolă
+Dimmer Level| Nivel graduator
+AQUARIUS_5 prompts| 
+Network General Info| Info generale reţea
+Network Persist. Data| Date persistente reţ.
+Network DHCP Info| Info DHCP reţea
+Network QoS| QoS reţea
+key opens Voicemail App| tasta desch. Mes. voc.
+Available Networks| Rețele disponibile
+ Enter Administrator Password|  Introducere parolă administrator
+Lease Remaining (Seconds)| Leasing rămas (secunde)
+Current Call Server| Server de apeluri curent
+Device Move Detected| Mișcare dispozitiv detectată
+Did you move to a new address?\n\nYes - Update your emergency location information| V-ați mutat la o nouă adresă?\n\nDa - Actualizați informațiile de locație în caz de urgență
+Manual Upgrade| Actualizare manuală
+Password| Parolă
+Dimmer Level| Nivel graduator
+AQUARIUS_6 prompts| 
+Network General Info| Info generale reţea
+Network Persist. Data| Date persistente reţ.
+Network DHCP Info| Info DHCP reţea
+Network QoS| QoS reţea
+key opens Voicemail App| tasta desch. Mes. voc.
+Available Networks| Rețele disponibile
+ Enter Administrator Password|  Introducere parolă administrator
+Lease Remaining (Seconds)| Leasing rămas (secunde)
+Current Call Server| Server de apeluri curent
+Device Move Detected| Mișcare dispozitiv detectată
+Did you move to a new address?\n\nYes - Update your emergency location information| V-ați mutat la o nouă adresă?\n\nDa - Actualizați informațiile de locație în caz de urgență
+Manual Upgrade| Actualizare manuală
+Password| Parolă
+Dimmer Level| Nivel graduator
+Common prompts| 
+Use DHCP?| DHCP?
+Restart Phone?| Restart telefon?
+Firmware Info| Info Firmware
+DHSG| DHSG
+DHSG is ON| DHSG PORNIT
+DHSG is OFF| DHSG OPRIT
+Backlight On Time| Durată iluminare fundal
+Directory| Agendă
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+IP cannot be equal to gateway address| IP-ul nu poate fi egal cu gateway-ul
+OK| OK
+Directory empty| Agendă goală
+Files Sent| Fişiere trimise
+Upload| Incărcare
+Replace| Înlocuire
+Merge| Unire
+Delete Item| Ştergere articol?
+Username| Nume utilizator
+Use xx to view| xx pt. afişare
+Time and Date| Ora şi Data
+Language| Limba
+Busy| Ocupat
+Restart| Repornire
+All Off| Totul Off
+Flash| Flash
+Dial| Apelare
+Xfer| Transfer
+Reset| Reset
+Select| Selectare
+Speaker/Headset| Difuzor/Cască
+Headset/Speaker| Cască/Difuzor
+Off| Oprit
+DHCP Settings| Parametri DHCP
+DHCP User Class| Clasă DHCP
+Hostname| Hostname
+IP Address| Adresă IP
+Subnet Mask| Mască reţea
+Gateway| Poartă de acces
+Primary DNS| DNS principal
+Secondary DNS| DNS Secundar
+LAN Port VLAN| VLAN Port LAN
+LLDP Settings| Parametri LLDP
+Backspace| Backspace
+No| Nu
+Yes| Da
+DHCP Download Options| Opţiuni Descărcare DHCP
+Restart Phone| Repornire tel.
+Restarting...| Repornire...
+Auto| Auto
+DND| DND
+Time Zone| Format oră
+Invalid Time| Oră incorectă
+Invalid Date| Dată incorectă
+On| Pornit
+Connected| Conectat
+Cancel| Renunţă
+Done| Incheiat
+No changes made| Fără modificări
+Unknown| Necunoscut
+NextSpace| UrmSpaţiu
+Dot "."| Punct"."
+Transfer Failed| Transfer eşuat
+Call Forward| Deviere apel
+All| Toate
+Any| Oricare
+Contrast Level| Contrast
+Loading Page...| Încărcare pag...
+Connect Timeout| Timp con expirat
+File Not Found| Fişier inexist.
+Cannot display| Afiş. imposibilă
+Use TFTP| Utilizare TFTP
+Use FTP| Utilizare FTP
+Use HTTP| Utilizare HTTP
+Use HTTPS| Utilizare HTTPS
+FTP Server| Server FTP
+FTP Path| Cale FTP
+FTP Username| Nume utiliz. FTP
+FTP Password| Parola FTP
+HTTP Server| Server HTTP
+HTTP Path| Cale HTTP
+HTTP Port| Port HTTP
+HTTPS Server| Server HTTPS
+HTTPS Path| Cale HTTPS
+HTTPS Port| Port HTTPS
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Factory Default| Param. Fabrică
+Factory Default?| Param. Fabrică?
+MAC Address| Adresă MAC
+Status| Stare
+Basic Settings| Parametri de bază
+Advanced Settings| Parametri avansaţi
+Platform| Platformă
+Boot Version| Versiune Boot
+Option 160| Opţiunea 160
+Option 159| Opţiunea 159
+Option 66| Opţiunea 66
+Option 43| Opţiunea 43
+Account| Cont
+Line 1| Linia 1
+Save Settings| Salvare Parametri
+Enabled| Activat
+Current Password| Parola Actuală
+New Password| Parola Nouă
+Back| Înapoi
+Please restart the phone for the settings to take effect.| Reporniţi telefonul pt ca parametrii să intre în vigoare.
+Incoming Call| Apel intrare
+Configuration Server| Server Configuraţie
+Settings| Parametri
+Download Protocol| Protocol Descărcare
+No Answer| Fără Răspuns
+Number| Număr
+Network| Reţea
+Invalid IP Address| Adresă IP invalidă
+Invalid gateway address| Adresă gateway invalidă
+Invalid subnet mask| Mască reţea invalidă
+Ring Tones| Tonuri Sonerie
+Do Not Disturb| Nu Deranjaţi
+Save| Salvare
+Delete| Ştergere
+Page 1| Pagina 1
+Page 2| Pagina 2
+Page 3| Pagina 3
+Phone Lock| Blocare Telefon
+Lock the phone?| Blocaţi tel.?
+Lock| Blocare
+Unlock| Deblocare
+Input Language| Limbă Intrare
+Jan| Ian
+Feb| Feb
+Mar| Mar
+Apr| Apr
+May| Mai
+Jun| Iun
+Jul| Iul
+Aug| Aug
+Sep| Sep
+Oct| Oct
+Nov| Noi
+Dec| Dec
+Sun| Dum
+Mon| Lun
+Tue| Mar
+Wed| Mie
+Thu| Joi
+Fri| Vin
+Sat| Sâm
+Error| Eroare
+Ethernet & VLAN| Ethernet & VLAN
+Unavailable| Indisponibil
+Available| Disponibil
+IP&MAC Addresses| Adrese IP&MAC
+LAN Port| Port LAN
+PC Port| Port PC
+Set Audio| Reglaje Audio
+No Error Messages| Fără Mesaje de Eroare
+Disabled| Dezactivat
+Backlight| Iluminare fundal
+Display| Ecran
+Speed Dial Edit| Edit. ApelRapid
+second| secundă
+seconds| secunde
+EAP-MD5| EAP-MD5
+EAP-TLS| TLS-EAP
+Identity| Identitate
+Invalid URI| URI Invalid
+Default| Implicit
+Not Configured| Neconfig.
+Invalid Setting| Parametru invalid
+Must not be empty| Nu poate fi necompletat
+Must be a valid number| Trebuie să fie un număr valid
+Must be a nonzero number| Trebuie să fie un număr nenul
+Not in range| Nu e în plajă
+Invalid Hostname| Hostname invalid
+Voicemail| Mesagerie vocală
+Please Wait...| Aşteptaţi...
+Options List| Listă Opţiuni
+Directory?| Agendă?
+Work| Serviciu
+Search| Căutare
+Handset| Receptor
+Filtering| Filtrare
+ Enter Unlock Password|  Introduceţi parola pt. debloc.
+Today| Azi
+Yesterday| Ieri
+Monday| Luni
+Tuesday| Marţi
+Wednesday| Miercuri
+Thursday| Joi
+Friday| Vineri
+Saturday| Sâmbătă
+Sunday| Duminică
+Set| Config
+#Confirm| #Confirmare
+Edit| Mod.
+Quit| Ieşire
+Full 10Mbps| 10Mbps full
+Full 100Mbps| 100Mbps full
+Full 1000Mbps| 1000Mbps full
+Half 10Mbps| 10Mbps half
+Half 100Mbps| 100Mbps half
+Half 1000Mbps| 1000Mbps half
+Delete All| Şterge Tot
+Erase Local Configuration?| Şterg. cfg. ?
+Audio| Audio
+Application| Aplicaţie
+802.1x| 802.1x
+Brightness Timer| Tempo. Strălucire
+Brightness Level| Nivel Strălucire
+Level 1| Nivelul 1
+Level 2| Nivelul 2
+Level 3| Nivelul 3
+Level 4| Nivelul 4
+Level 5| Nivelul 5
+(Min: %d  Max: %d)| (Min: %d Max: %d)
+Line: %d| Linie: %d
+Invalid %s (%d to %d)| Incorect %s (%d to %d)
+Sys Info| Info sist. 
+Login| Autent.
+Held| Parcat
+Ringing| Sună
+Ethernet Ports| Porturi Ethernet
+Call Server| Server de apeluri
+Use Network Time| Utilizare oră reţea
+Speed Dial Key %d| Tastă apelare rapidă %d
+%d/%d records| %d/%d înregistrări
+%d days stored| %d zile memorate
+1 day stored| 1 zi memorată
+Upload System Info Files?| Încărcaţi fişierele cu informaţii despre sistem?
+Please enter a number| Introduceţi un număr
+No Matches Found| Nu s-a găsit nicio potrivire
+Name| Nume
+Contact already exists| Acest nume există deja
+Left Softkey %d| Tastă soft stânga %d
+Bottom Softkey %d| Tasta de jos %d
+All Accounts| Toate conturile
+Exp. Mod. %d Key %d| Exp. Mod. %d cheia %d
+Mode %d| Mod %d
+Top Softkey %d| Tastă soft sus %d
+Home Screen Mode| Modul Ecran de întâmpinare
+Screen Saver Timer| Cronometru screen saver
+Home Screen| Ecran de întâmpinare
+Please enter a name| Introduceţi un nume
+Brightness| Strălucire
+Business Fax| Fax la birou
+Cannot add new record. Limit reached.| Nu se pot adăuga înregistrări noi. Limita a fost atinsă.
+City| Oraş
+Corporate| Corporativ
+Country| Ţară
+Delete %s from %s?| Ştergeţi %s din %s?
+Delete all entries in %s?| Ştergeţi toate intrările din %s?
+Directory import failed| Import director eşuat
+Directory loading| Se încarcă directorul
+Directory not available at this time| Directorul nu este disponibil în acest moment
+Edit Details| Editare detalii
+Email| E-mail
+Email 1| E-mail 1
+Email 2| E-mail 2
+Email 3| E-mail 3
+Enterprise Directory| Director companie
+Exchange Contacts| Schimb de contacte
+External Sources| Surse externe
+Failed to retrieve contact details| Eşec la preluarea detaliilor de contact
+Home 1| Acasă 1
+Home 2| Acasă 2
+Home Address| Adresa de acasă
+Job Title| Funcţie
+LDAP| LDAP
+Last%c First| Ultima%c prima
+Last Name| Nume de familie
+Local| Locală
+Microsoft Exchange| Microsoft Exchange
+Mobile| Mobil
+New Contact| Contact nou
+Numbers| Numere
+Organization| Organizaţie
+Other| Altele
+Personal| Personale
+Personal Contacts| Contacte personale
+Province/State| Provincie/Stat
+Request Failed| Cerere eşuată
+Street Address| Adresă - Stradă
+Test| Test
+Test Connection| Conexiune test
+Work 2| Work 2
+Work Address| Adresă serviciu
+Zip/Postal Code| Cod poştal
+Credentials| Acreditări
+Enable/Disable| Activare/dezactivare
+Labels| Etichete
+Copy| Copiază
+Add New| Adăugare
+Delete selected item or delete all items?| Ştergeţi elementul selectat sau toate elementele?
+Enter Username| Introducere nume utilizator
+Phone Info| Info telefon
+Attendant| Participant
+BLF Privacy| Confidenţialitate BLF
+PIN| PIN
+Capture| Capturare
+Start| Pornire
+Stop| Oprire
+Phone will restart automatically after finishing.| se termină.
+Idle| Liber
+Outgoing| Ieşire
+Call History is Empty| Istoricul de apeluri este gol
+No Outgoing Calls| Niciun apel efectuat
+No Missed Calls| Niciun apel nepreluat
+No Received Calls| Niciun apel primit
+Received| Primite
+Missed| Nepreluate
+Enterprise Common Directory| Director comun companie
+Group Directory| Director de grup
+Group Common Directory| Director comun de grup
+Call History| Istoric apeluri
+Bluetooth| Bluetooth
+Scan| Caută
+Paired Devices| Dispozitive asociate
+Available Devices| Dispozitive disponibile
+Swipe the toggle switch to the right to enable Bluetooth| Glisaţi comutatorul spre dreapta pentru a porni Bluetooth-ul
+Pairing| Se asociază
+Connecting| Conectare
+Device| Dispozitiv
+No paired devices| Niciun dispozitiv asociat
+Connection failed| Conexiunea a eşuat
+Disconnection successful| Deconectare reuşită
+Disconnection failed| Deconectare eşuată
+Pairing failed| Import director eşuat
+Operation failed| Operaţia a eşuat
+Retry| Reîncerc.
+Do you want to forget this device?| Doriţi să uitaţi acest dispozitiv?
+Close| Închidere
+Enabling Bluetooth...| Se activează Bluetooth-ul...
+Disabling Bluetooth...| Se dezactivează Bluetooth-ul...
+Connecting...| Conectare...
+Disconnecting...| Se deconectează...
+Warning - All entries in %s will also be deleted| Avertisment - Vor fi şterse şi toate intrările din %s
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Contacts| Contacte
+Unknown| Necunoscut
+Connect| Conectare
+%s disconnected| %s deconectat   
+%s connected| %s conectat    
+Failed to disable Bluetooth| Dezactivare Bluetooth eşuată
+Failed to enable Bluetooth| Activare Bluetooth eşuată
+Port Mirroring| Port mirroring
+Audio Feedback| Feedback audio
+Audio Path| Cale audio
+Button Beep| Semnal sonor buton
+Error Beep| Semnal sonor eroare
+Made| Efectuat
+To my prime line| La prima mea linie
+To any appearance| La orice nr. de linii
+Display Call Info| Afişare info apel
+Always| Mereu
+Busy Internal| Intern ocupat
+Busy External| Extern ocupat
+No Answer Internal| Intern fără răspuns
+No Answer External| Extern fără răspuns
+Copy to All?| Copiază la toţi?
+Loading...| Se încarcă...
+Password Changed| Parolă modificată
+Restore Default| Restabilire valori implicite
+Enter Again| Introd. din nou
+Erase| Ştergere
+Set All| Setare toate
+VLAN Settings| Parametri VLAN
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Avansat
+Phonebook| Agendă telefonică
+Update| Actualizare
+Copyright| Copyright
+Pause| Pauză
+Incorrect password| Parolă incorectă
+Level 0| Nivelul 0
+Static Network Settings| Setări reţea statice
+Enter| Introd.
+Reset Configuration?| Resetare configuraţie?
+TCP DUMP| TCP DUMP
+minutes| minute
+IP and gateway have to be on the same subnet| IP-ul şi portalul trebuie să fie pe aceeaşi subreţea
+Call Server IP Address| IP server de apeluri
+TFTP Server IP Address| IP server TFTP
+IPA IP Address| Adresa IP IPA
+Ping| Ping
+Test POE| POE test
+Host Name or IP Address| Nume gazdă sau adresă IP
+Please enter a valid HostName/IP Address| Introduceţi o adresă IP/un nume de gazdă valid
+Pinging %s...| Se face ping %s...
+Add Contact| Adăugare contact
+Cannot dial a private number| Nu se poate apela un număr ascuns
+Delete all contacts from %s?| Ştergeţi toate contactele din %s?
+Search contacts| Căutare contacte
+CDP Settings| Setări CDP
+Current Network Settings| Setări reţea curente
+VLAN Id| ID VLAN
+DSCP Default| DSCP - Implicit
+DSCP Voice| DSCP - Voce
+DSCP Signaling| DSCP - Semnalizare
+DSCP Other| DSCP - Altele
+L2P Default| L2P - Implicit
+L2P Voice| L2P - Voce
+L2P Signaling| L2P - Semnalizare
+L2P Other| L2P - Altele
+Modify PIN| Schimbare PIN
+Registering...| Se înregistrează...
+Erase PIN| Ştergere PIN
+Erase PIN?| Ştergeţi PIN-ul?
+Duration| Durată
+Details| Detalii
+First Name| Prenume
+Home| Acasă
+People| Persoane
+Contacts - Add New| Contacte - Adăugaţi unul nou
+Entry copied to| Intrare copiată în
+Settings - Bluetooth| Setări - Bluetooth
+Screen Saver| Screen saver
+Paired| Asociate
+Press the Turn On softkey to enable Bluetooth| Apăsaţi tasta soft de activare pentru a porni Bluetooth-ul
+Connected successfully| Conectate cu succes
+Directory is full| Agenda este plină
+Directory full| Agendă plină
+Do you want to connect this device?| Doriţi să conectaţi acest dispozitiv?
+Do you want to disconnect this device?| Doriţi să deconectaţi acest dispozitiv?
+%s audio connected| %s audio conectat
+%s audio connection failed| Conexiunea audio %s a eşuat
+Pair with %s\nPairing code - %06ld| Asociere cu %s\nCod de asociere - %06LD
+Do you want to get the device's contacts?| Doriţi să preluaţi contactele de pe dispozitiv?
+Retrieving contacts...| Se preiau contactele...
+Contacts retrieved successfully| Contacte preluate cu succes
+Phonebook retrieval unavailable| Preluare agendă indisponibilă
+ Failed to retrieve contacts|  Eşec la preluarea contactelor
+Ongoing Call| Apel în curs
+Press scan to find a device| Apăsaţi pe Scanare pentru a găsi un dispozitiv
+Please Wait. Scanning for nearby devices| Vă rugăm să aşteptaţi. Se scanează pentru găsirea dispozitivelor din apropiere
+Connect Automatically| Conectare automată
+Pairing ...| Se asociază...
+Successfully paired| Asociate cu succes
+Unable to pair with the device| Nu se poate asocia cu dispozitivul
+Does the passkey match?| Cheia principală corespunde?
+Unpair| Dezasociere
+Bluetooth is currently off.| Bluetooth-ul este oprit în prezent.
+Turn Off| Oprire
+Turn On| Pornire
+Turn off| Oprire
+Turn on| Pornire
+Sorry! Unable to turn Bluetooth on. | Ne pare rău! Imposibil de pornit Bluetooth-ul. 
+Sorry! Too many devices paired.| Ne pare rău! Prea multe dispozitive asociate.
+Forget| Uitare
+Unknown Caller| Apelant necunoscut
+Answer| Răspunde
+Decline| Refuz
+Push Call| Apel push
+End Call| Încheie apel
+Caller| Apelant
+Disconnect| Deconectare
+Capturing ...| Se capturează...
+Speaker| Difuzor
+Headset| Căşti
+Ringer| Sonerie
+Internal Ring| Sunet de apel pentru interior
+External Ring| Sunet de apel pentru exterior
+Classic 1| Clasic 1
+Classic 2| Clasic 2
+Classic 3| Clasic 3
+Classic 4| Clasic 4
+Classic 5| Clasic 5
+Classic 6| Clasic 6
+Classic 7| Clasic 7
+Classic 8| Clasic 8
+Classic 9| Clasic 9
+Classic 10| Clasic 10
+Call Notification| Notificare apel
+Config Teleworker| Configurare teleoperator
+Diagnostics| Diagnostic
+MinetDump| MinetDump
+Float Keys| Tastele flotante
+Network Services| Servicii reţea
+DHCP Trace| DHCP Trace
+Firewall Settings| Setări firewall
+Wi-Fi| Wi-Fi
+Port Info| Informaţii port
+Error Message| Mesaj de eroare
+TFTP Server Port| Portul serverului TFTP
+DHCP Status| Starea DHCP
+T1 (Seconds)| T1 (secunde)
+T1 Left (Seconds)| T1 rămas (secunde)
+T2 (Seconds)| T2 (secunde)
+T2 Left (Seconds)| T2 rămas (secunde)
+LAN Port Speed| Viteză prin portul LAN
+LAN Port Duplex| Duplex port LAN
+PC Port Speed| Viteză prin portul PC
+PC Port Duplex| Duplex port PC
+Model| Model
+Call Server Rev.| Versiune server de apeluri
+Main Version| Versiunea principală
+Save to Confirm or Cancel to Revert| Salvaţi pentru a confirma sau anulaţi pentru a reveni
+Hardware Rev.| Versiune hardware
+Change| Modificare
+Change Password| Schimbare parolă
+Confirm Password| Confirmare parolă
+ Blank|  Necompletat
+ Wrong|  Greşit
+ Passwords don't match.|  Parolele nu corespund.
+No Link| Fără con.
+Half-Duplex| Semi-duplex
+Full_Duplex| Duplex complet
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| Copyright Mitel Networks Corporation 2016.\nToate drepturile rezervate.
+Proxy Logoff| Deconectare proxy
+No Network| Nicio reţea
+Contacting Server| Se contactează serverul
+Private| Privat
+Miscellaneous| Tastă programabilă
+Programmable Key| Apelare rapidă
+Speed Call| Alte caracteristici
+Other Features| Cod cont verificat
+Account Code Verified| Cont verificat
+Acct Verified| Răspuns automat
+Call Forward Always| Redirecţionare apel întotdeauna
+Fwd Always| Redirecţionare întotdeauna
+Account Code Non Verified| Cod cont neverificat
+Acct Non-Ver| Cont neverificat
+Name or Number is empty| Numele sau numărul nu este completat
+Label Name| Etichetă nume
+Rename| Redenumire
+Rename this device| Redenumiţi dispozitivul
+PKM version| Versiune PKM
+Department| Departament
+Location| Loc
+Softphone| Softphone
+My Phone| Telefon meu
+More ...| Continuare...
+Restart| Repornire
+Searching| Căutare
+Send| Trimitere
+Log Issue| Jurnalizare problemă
+Logging Issue| Problemă de scriere în jurnal
+Administrator access is disabled| Accesul administratorului este dezactivat
+Please input a duration between 1 and 1440 minutes| Introduceţi o durată între 1 şi 1440 de minute
+Please input a duration between 1 and 5 minutes| Introduceţi o durată între 1 şi 5 de minute
+Teleworker Settings| Setări teleoperator
+Invalid TFTP Port| Port TFTP nevalid
+Cannot copy a private number| Nu se poate copia un număr ascuns
+Search Corporate| Căutare în corporaţie
+Warning| Avertisment
+Configuration changes detected\nApplication must be closed| Modificări de configuraţie detectate\nAplicaţia trebuie să fie închisă
+Desktop Portal URL| URL portal desktop
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| Tip EAP
+Phone Numbers| Numere de telefon
+ Max Exceeded|  max. depăşite
+Press "%s" key to search corporate contacts| Apăsaţi tasta "%s" pentru a căuta contacte din corporaţie
+Too many answers\nRefine your search| Prea multe răspunsuri\nRafinaţi căutarea
+Not available\nConfiguration error| Nedisponibil\nEroare de configuraţie
+DHCP Trace information is not available| Informaţiile DHCP Trace nu sunt disponibile
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| Conflict IP detectat
+Do you want to save this IP?| Doriţi să salvaţi această IP?
+Max allowed Number length is 26| Lungimea maximă permisă a numărului este 26
+Enabling DHSG Headset...| Se activează căştile DHSG...
+Disabling DHSG Headset...| Se dezactivează căştile DHSG...
+Enter name| Numele
+Lastname Firstname| Nume de familie Prenume
+Call History currently not available| Istoric apeluri nu este disponibil în acest moment
+Audio Diagnostics| Diagnosticare audio
+Avatars| Avatar
+Request timed out| Solicitare expirată
+Complete ...| Terminat...
+Collecting Logs ...| Colectarea jurnalelor...
+Pair| Pereche
+Bluetooth pairing request| Cerere de asociere prin Bluetooth
+Login failed| Eşec conect.
+Low Battery| Niv. bat. redus
+Incoming Call from %s| Apel de la %s
+Incoming Call from %s (%s)| Apel intrare de la %s (%s)
+Cloud Domain| Domeniu cloud
+Replay| Redare din nou
+Backward| Înapoi
+Forward| Înainte
+Send To| Trimitere către
+Logout| Deconectare
+To Email| Către e-mail
+Delete Failure| Şterg. eşuată
+Play Failure| Redare eşuată
+Play Failure due to a system error. See your system administrator.| Eroare de redare din cauza unei erori de sistem. Consultați administratorul dvs. de sistem.
+Save Failure| Salvare eşuată
+Voicemail and Recordings| Mesaje vocale şi înreg.
+Voicemail User Login| Conect. mesagerie
+Number not available| Numărul nu este disponibil
+To| Către
+Voicemail has been sent.| Mesaj vocal trimis.
+Error in sending Voicemail. Please send it again.| Eroare trim. către mesageria vocală. Retrimiteți.
+Voicemail has been sent to email.| Mesaj vocal trimis către e-mail.
+Error in sending to Email.| Eroare trim. către e-mail.
+New| Noi
+Recorded| Înregistrate
+Receipt Confirmation| Confirmare de primire
+Passcode| Parolă
+Mailbox Number| Număr căsuţă
+Remember passcode| Memorare parolă
+Passcode is incorrect. Enter a valid passcode.| Parola este incorectă. Introduceți o parolă validă.
+Invalid mailbox number.| Număr căsuţă nevalid.
+Error - Mailbox in use| Eroare - căsuţă în uz
+Error - maximum sessions exceeded| Eroare - max. sesiuni depăşit
+Error - no session exists| Eroare - nicio sesiune
+Error - bad extension| Eroare - int. greşit
+Mailbox locked for security reasons. See your system administrator.| Căsuță poștală blocată din motive de securitate. Consultați administratorul dvs. de sistem.
+DECT Headset| Cască DECT
+DECT Headset Version| Versiune căşti DECT
+Call History retrieval unavailable| Preluare Istoric apeluri indisp.
+Failed to retrieve Call History| Preluare Istoric apeluri eşuată
+My Mobile| Mob. meu
+Service Type| Tip de serviciu
+MiCloud Connect| MiCloud Connect
+MiVoice Border Gateway| MiVoice Border Gateway
+User DID| ID domeniu utilizator
+Exit| Ieşire
+Tracerouting...| Rutare cu urmărire...
+Traceroute| Rutare cu urmărire
+Never| Niciodată
+User Settings| Setări utilizator
+Invalid %s| %s nevalid(ă)
+Register| Înregistrare
+Paired Devices| Dispozitive asociate
+Available Devices| Dispozitive disponibile
+RTT min/avg/max| RTT min/med/max
+traceroute to| rutare cu urmărire la
+hops max| salturi max
+PIN Changed| PIN modificat
+Erase Settings?| Șterg. setări?
+Log Issue?| Prob. de conec?
+Contrast| Contrast
+Error (Min:%d Max:%d)| Er. (min:%d max:%d)
+TCP DUMP?| TCP DUMP?
+Tracert Complete| Ruta. urm. ter.
+PIN Confirm?| Confirmare PIN?
+Enter PIN| Introduceţi PIN
+Pin incorrect| PIN incorect
+IP/Subnet/Gateway| IP/Subreț/Gatew
+DNS Servers| Servere DNS
+Timeout 1-1440 Min| Exp. 1-1440 min
+Timeout 1-5 Minutes| Exp. 1-5 min
+Timeout 1-3 Minutes| Exp. 1-3 min
+Packet Capture| Captur. pachet
+Audio Capture| Capturare audio
+Start Capture| Pornire capt.
+Start Capture?| Porniți. capt.?
+Stop Capture| Oprire capt.
+Stop Capture?| Opriți capt.?
+Duration(Minutes)| Durată (min.)
+Packets Tx:| Tx pachete:
+Packets Rx:| Rx pachete:
+byte packets| Pachete bytes
+TFTP Server| Server TFTP
+IPA Server| Server IPA
+Hostname/IP addr.| Hostname/adr.IP
+Pinging...| Se face ping...
+Request Cancelled| Cerere anulată
+Deleting mobile contacts| Se șterg contactele mob.
+No Mobile Calls| Niciun apel
+Forgetting Device...| Se uită disp...
+Press 'OK' to attempt MiCloud Connect auto-register. Or enter DID and Password if provided.| Apăs. OK pt. a încer. o înreg. auto. la MiCloud Connect. Sau intr. ID digital, parola dacă există.
+%s temporarily disconnected| %s deconectat temporar
+ Unable to pair. Retry after this call.|  Nu se poate ataşa. Reîncer. după apel.
+Unable to connect. Device will reconnect after this call.| Conectare imposibilă. Dispozitivul se va reconecta după apel.
+Unable to connect. Retry after this call.| Nu se poate realiza conex. Reîncer. după apel.
+Bluetooth pairing request| Cerere de asociere prin Bluetooth
+Only one Handset can be paired to this phone| Un singur receptor poate fi asociat cu telefonul
+Only one Mitel S720 Bluetooth Speakerphone can be paired to this phone| Doar un Mitel S720 Bluetooth Speakerphone poate fi asociat cu acest telefon
+Only one Mitel S720 BT Speakerphone can be paired to this phone| Doar un Mitel S720 BT Speakerphone poate fi asociat cu acest tel.
+External Speaker| Difuzor extern
+Restoring factory default and restarting ...| Refacere param. fabrică și repornire...
+Music| Muzică
+Call Server 1| Server apel. 1
+Call Server 2| Server apel. 2
+Call Server 3| Server apel. 3
+Call Server 4| Server apel. 4
+DHCP Server| Server DHCP
+T3 (Seconds)| T3 (secunde)
+T3 Left (Seconds)| T3 stânga (sec)
+Lease Remaining Left (Seconds)| Lsng răm. (sec)
+Phone Uptime| Funcţionare tel
+Test Modes| Moduri de testare
+LAN Port T1| Port LAN T1
+LAN Port T4| Port LAN T4
+PC Port T1| Port PC T1
+PC Port T4| Port PC T4
+Copyright Mitel Networks Corporation | Copyright Mitel Networks Corporation 
+.\nAll rights reserved.| .\nToate drepturile rezervate.
+Logging Issue..| Pb. scr. Jurnal..
+Logging Issue....| Pb.scriereJurn....
+Logging Issue......| Pb.scriereJurn......
+Logging Issue........| Pb.scriereJurn........
+Mobile Line| Linie mobil
+External Contacts| Contacte externe
+Press "%s" key to search external contacts| Apăsați tasta "%s" pentru contacte externe
+Not available\nPlease contact your administrator| Indisponibil\nContactaţi administratorul
+Restarting Network...| Reiniţ. reţea...
+Remember my passcode| Memorare parola mea
+%s - %d% battery remaining| %s - %d% baterie rămasă
+DECT Power/Bandwidth| Putere/Lățime de bandă DECT
+Only one Mobile Line key can be programmed.| Doar o tastă Linie Mobil este programabilă.
+File Server| Server fiş.
+WaveStreaming| WaveStreaming
+Refresh| Reîmprosp.
+Saved Network| Rețea salvată
+WLAN adapter is not connected| Adaptorul WLAN nu este conectat
+No Saved Network| Nicio rețea salvată
+Enter Password| Introd. parolă
+Searching for networks| Se caută rețele
+Reboot WLAN adapter and phone to save settings?| Rein. adapt. WLAN și telefon pt. a salva setările?
+Voice Services| Servicii de voce
+MiV BorderGateway| MiV BorderGateway
+MiVoice Connect| MiVoice Connect
+Domain (required)| Domeniu (oblig.)
+Register?| Inregistrare?
+USB Wireless| USB Wireless
+Enabling USB Wireless...| Se activează USB Wireless...
+Disabling USB Wireless...| Se dezactivează USB Wireless...
+Next| Înainte
+Server Address| Adresă server
+Log capture in progress| Capturare conect. în curs
+Stopping Log capture| Oprire capturare conect.
+Audio capture in progress| Capturare audio în curs
+Stopping audio capture| Oprire capturare audio
+Not Available Yet| Nu este încă dispon.
+Restart Network| Repornire reţea
+Restart Network?| Reporn. reţea?
+Config Server| Server. config.
+Wideband| De bandă largă
+Narrowband| De bandă îngustă
+Configuring DECT| Configurarea DECT
+Personal Mode| Mod personal
+Disable Hotdesk Logout Pop-up| Dezactivați Hot Desk Logout Pop-up
+Reflective Room| Sală reflectoare
+Auto 100Mbps| Auto 100Mbps
+%s temporarily disconnected. PC Audio is now on your PC.| %s temporar deconectat . PC Audio este acum pe computerul dvs.
+\n\nPrivacy Policy\nhttps://www.mitel.com/legal/mitel-application-privacy-policy| n\n Politica de Confidențialitate \ nhttps: //www.mitel.com/legal/mitel-application-privacy-policy 
+Mobile/PC Line| Mobil/PC Linie
+Only one Mobile/PC Line key can be programmed.| Doar o tastă de linie mobilă/PC poate fi programată.
+Teleworker| Telelucrător
+DSP TE| DSP TE
+DSP TE| DSP TE
+HotDesk| BirouFierbinte
+Hot Desk| Birou Fierbinte
+Voicedial| Apelarevocală
+Speed Calls| Apeluri rapide 
+Room Meetings| Întâlniri de cameră 
+Settings| Setări 
+Meetings| Întâlniri 
+Release Version| Versiunea de lansare 
+Last Commit| Ultimul angajament
+External Mics| Microfoane externe 
+DSP FW Version| DSP FW Versiune
+DSP TE| PSD TE
+You are currently logged in to Hotdesk. Would you like to remain logged in?| În prezent sunteți conectat la Biroufierbinte.  Doriți să rămâneți conectat? 
+Keep me logged in| Ține-mă logat 
+BLE Power| Puterea BER
+Calibration Data| Date de calibrare 
+HW Id:| Ni a HW:
+    MREV|     MREV
+    AVER|     AVER
+    MUTE|     MUT
+Enable G729 codec support| Activați suportul codecului G729 
+Restart needed| Repornire necesară 
+Will reconnect to the server for the settings to take effect.| Se va reconecta la server pentru ca setările să aibă efect. 
+Reconnect| Reconectați-vă 
+Reconnect later| Reconectați-vă mai târziu 
+Press # on the dialpad to enter a Dot "."| Apăsați # pe tastatura pentru a introduce un punct „.” 
+TFTP Server| Server TFTP
+TFTP Port| TFTP Port
+TFTP Path| Calea TBTF 
+Bluetooth Advanced Settings| Setări avansate Bluetooth
+Hot desk Only| Numai birou fierbinte
+Automatically reconnect mobile phone| Reconectați automat telefonul mobil
+PC Audio| PC Audio
+PC| PC
+PC Connected| PC Conectat
+Bluetooth Handset is not supported for PC Audio| Receptorul Bluetooth nu este acceptat pentru PC Audio 
+Bluetooth Headset is not supported for PC Audio| Setul cu cască Bluetooth nu este acceptat pentru PC Audio 
+S720 Bluetooth Speakerphone is not supported for PC Audio| S720 Difuzorul Bluetooth nu este acceptat pentru PC Audio
+BT Handset is not supported for PC Audio| Receptorul BT nu este acceptat pentru PC Audio 
+BT Headset is not supported for PC Audio| Setul cu cască BT nu este acceptat pentru PC Audio 
+S720 Speakerphone is not supported for PC Audio| Difuzorul S720 nu este acceptat pentru PC Audio 
+Unsupported Device. Pairing denied| Dispozitiv neacceptat. Împerecherea refuzată 
+Connecting this device will disconnect your PC| Conectarea acestui dispozitiv vor fi deconectat computerul 
+Connecting this device will disconnect your Mobile| Conectarea acestui dispozitiv vor fi deconectat telefonul mobil
+Pair with %s| Asociere cu %s
+Please initiate pairing from the PC/MAC| Vă rugăm să inițiați asocierea de pe PC/MAC 
+Delete failure. Mailbox uninitialized. See your system administrator.| Ștergeți eșecul. Căsuța poștală neinițializată. Consultați administratorul dvs. de sistem.
+Connecting devices. This may take several seconds...| Conectarea dispozitivelor . Acest lucru poate dura câteva secunde ... 
+Bluetooth Handset| Receptorul Bluetooth
+Connecting PC Audio...| Se conectează audio PC...
+Dump DECT Logs| Golire jurnale DECT
+High Power| Putere ridicată
+Low Power| Putere scăzută
+Max allowed Name length is 20| Lungimea max. permisă pentru nume este de 20
+NB Level Comp| Comp. nivel NB
+Very Low Power| Putere foarte scăzută
+Cordless Handset Version| Versiunea Receptorului Fără Fir
+USB Overload detected| Supraîncărcare USB detectată
+Remove USB device and then press OK.| Scoateți dispozitivul USB și apoi apăsați OK.
+Press "Turn on" to enable Wi-Fi| Apăsaţi „Activare” pentru a porni Wi-Fi
+Search Failed| Căutarea nu a reușit
+Reboot phone to save settings?| Reporniți telefonul pentru a salva setările?
+Confirm Region| Confirmați regiunea
+Is this phone being deployed within the United States?| Acest telefon este utilizat pe teritoriul SUA?
+Please contact system administrator to enable Wi-Fi| Vă rugăm contactați administratorul de sistem pentru activarea Wi-Fi
+LAN IP Address| Adresa IP LAN
+Wi-Fi IP Address| Adresa IP Wi-Fi
+LAN MAC Address| Adresa MAC LAN
+Wi-Fi MAC Address| Adresa MAC Wi-Fi
+Connected SSID| SSID conectat
+Enabling Wi-Fi...| Activare Wi-Fi...
+Disabling Wi-Fi...| Dezactivare Wi-Fi...
+Save and Connect?| Salvați și Conectare?
+Bluetooth Address| Adresă bluetooth
+Remote Upgrade (SIP)| Upgrade de la distanță (SIP)
+Remote Upgrade (MiNet)| Upgrade de la distanță (MiNet)
+F/W Download Failed\nUnable to download from\n%s| F/W Descărcare Eșuată\nNu se poate descărca de la\n%s
+Downloading new main firmware.\nPhone will reboot automatically.| Se descarcă noul firmware principal.\nTelefonul va reporni automat.
+Upgrade main done| Upgrade principal realizat
+Upgrade main not required| Upgrade principal nu este necesar
+Upgrade main not required (incompatible version).| Upgrade principal nu este necesar (versiune incompatibilă).
+Energy Efficient| Energo-eficient
+LAN| LAN
+LAN and PC| LAN și PC
+Add Network| Adăugare rețea
+Hidden Network| Rețea ascunsă
+Wi-Fi Settings| Setări Wi-Fi
+Security| Securitate
+Open| Deschide
+WPA2-Personal| WPA2-Personal
+WPA2-Enterprise| WPA2-Corporație
+WPA3-Personal| WPA3-Personal
+WPA3-Enterprise| WPA3-Corporație
+Network Name| Denumire rețea
+Supplied Power is Insufficient| Putere de alimentare insuficientă
+Recommend using 48V Power Adapter| Se recomandă adaptor alimentare 48V
+Not Connected| neîn Conectat
+Static IPv4| IPv4 static
+DHCPv6 Trace| Urmărire DHCPv6
+Wi-Fi Option?| Opțiune Wi-Fi?
+No Ethernet cable attached\n would you like to connect via Wi-Fi?| Nu este atașat niciun cablu Ethernet\n doriți să vă conectați prin Wi-Fi?
+Wi-Fi is not allowed!| Wi-Fi-ul nu este permis!
+This phone is not permitted to connect via Wi-Fi\nplease plug phone in via Ethernet cable and select OK| Acest telefon nu are permisiunea de a se conecta prin Wi-Fi\nconectați telefonul prin cablu Ethernet și selectați OK
+Auto Country| Țara automată
+Country Code Changed\n phone will reboot| Cod de țară schimbat\n telefonul se va reporni
+Guest Services| Servicii pentru oaspeți
+Wakeup Calls| Apeluri de trezire
+DND Status| Stare DND
+Enter Room Number:| Introduceți numărul camerei:
+Do Not Disturb (DND)| Nu deranjați (DND)
+Wakeup Time (24-hr format)| Timp de trezire (format de 24 de ore)
+(24-hr format)| (format de 24 de ore)
+2nd Wakeup (>%d mins)| 2. A doua trezire (>%d minute)
+3rd Wakeup (>%d mins)| 3. A treia trezire (>%d minute)
+Go| Rulați
+Clear All| Ștergeți tot
+Switch Room| Comutați camera
+Tomorrow| Mâine
+Room| Cameră
+Invalid Room| Camera nu este validă
+Clear all wakeup calls| Ștergeți toate apelurile de trezire
+Would you like to clear all wakeup calls for Room %s?| Doriți să ștergeți toate apelurile de trezire pentru Camera %s?
+Add up to three wakeup calls for the next 24hrs.| Adăugați până la trei apeluri de trezire pentru următoarele 24 de ore.
+Please enter time between %s| Vă rugăm să introduceți timpul între %s
+There are no upcoming wakeup calls for Room %s| Nu există apeluri de trezire viitoare pentru Camera %s
+There are no upcoming wakeup calls| Nu există apeluri de trezire viitoare
+DND is currently OFF| DND este dezactivat în prezent
+DND is currently ON| DND este activat în prezent
+Add up to 3 wakeup calls for the next 24 hours| Adăugați până la 3 apeluri de trezire pentru următoarele 24 de ore
+Please enter time between 00:00 and 23:59| Vă rugăm să introduceți ora între 00:00 și 23:59
+Failed to Save Data| Salvarea datelor a eșuat
+Failed to Retrieve Data| Recuperarea datelor a eșuat
+Authentication Failed| Autentificare eșuată
+%d attempts left before your account gets locked. Please contact Administrator for assistance.| Au mai rămas %d încercări înainte ca contul dvs. să fie blocat. Vă rugăm să contactați administratorul pentru asistență.
+1 attempt left before your account gets locked. Please contact Administrator for assistance.| A mai rămas 1 încercare înainte ca contul dvs. să fie blocat. Vă rugăm să contactați administratorul pentru asistență.
+Your account has been temporarily locked for %d minutes due to too many login attempts. Please try later or contact Administrator for assistance.| Contul dvs. a fost blocat temporar pentru %d minute datorită prea multor încercări de conectare. Vă rugăm să încercați mai târziu sau să contactați administratorul pentru asistență.
+Network Connection Issue| Problemă de conexiune la rețea
+Wakeup time needs to be %d minutes apart| Ora de trezire trebuie să fie la distanță de %d minute
+Failed to Delete Data| Ștergerea datelor a eșuat
+Failed to Clear All Data| Ștergerea tuturor datelor a eșuat
+Must be before %s| Trebuie să fie înainte de %s
+Static IPv6| IPv6 static
+Invalid Prefix len| Prefix len nevalid
+Net IPv6 Info| Informații net IPv6
+IPv6 Addr| Adresă IPv6
+Prefix Len| Prefix Len
+Static IPv6 Settings| Setări IPv6 static
+Net ICP List| Listă Net ICP
+Net DHCPv6| Net DHCPv6
+Preferred (Seconds)| Preferat (secunde)
+Valid (Seconds)| Valid (secunde)
+Invalid Address| nevalid Adresă
+RA Flags| Steaguri RA
+Lifetime (sec)| Durată de viață (sec)
+Recursive DNS| DNS recursiv
+Prefix| Prefix
+RA Prefix Flags| Steaguri prefix RA
+Prefix Valid (sec)| Prefix valid (sec)
+Prefix Pref (sec)| Prefix Pref (sec)
+Display off while locked| Afișaj dezactivat la blocare
+Please unpair this device from %s and try again| Díphéiriú an gléas seo ó %s agus bain triail eile le do thoil
+Restart to SIP| Reporniți la SIP
+Camera Disconnected| Cameră deconectată
+Connecting ...| Conectare ...
+Camera Unreachable| Cameră inaccesibilă
+Connection Failed| Conexiune eșuată
+Retrying ...| Reîncercare ...
+Camera connection lost - Retrying...| Conexiune cameră pierdută - Reîncercare...
+Camera connection lost| Conexiune cameră pierdută
+Camera Connected| Cameră conectată
+Network Failure| Eroare rețea
+Stream Started| Stream pornit
+System Error - Please Reboot| Earráid Córais – Atosaigh le do thoil
+Screen Dimmer| Atenuare ecran
+Dimmer Timer| Temporiz. lum.
+End| Final

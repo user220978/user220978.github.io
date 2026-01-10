@@ -1,0 +1,1019 @@
+Nederlands (België)
+AQUARIUS_1 prompts| 
+Net General Info| Netwerk alg. info
+Net Persist. Data| Netw. Perm. Data
+Net DHCP Info| Netw. DHCP-info.
+Net QoS| Netwerk QoS
+Lease Remaining| Resterend lease
+ Enter Admin Password|  Voer Admin-wachtw in
+Current Server| Huidige server
+Did you move?| Bent u verhuisd?
+Yes-update 9-1-1 info| Ja-update 9-1-1 info
+Manual Upgrade| Manuele upgrade
+Password| Wachtw.
+Dimmer Level| Dimmer niveau
+AQUARIUS_2 prompts| 
+Net General Info| Netw. Alg. info.
+Net Persist. Data| Netw. Perm. Data
+Net DHCP Info| Netw. DHCP-info.
+Net QoS| Netwerk QoS
+Lease Remaining| Resterend lease
+ Enter Admin Password|  Voer Admin-wachtw in
+Current Server| Huidige server
+Did you move?| Bent u verhuisd?
+Yes-update 9-1-1 info| Ja-update 9-1-1 info
+Manual Upgrade| Manuele upgrade
+Password| Wachtw.
+Dimmer Level| Dimmer niveau
+AQUARIUS_3 prompts| 
+key opens Voicemail App| toets opent Voicem.-app
+Avail. Net.| Besch. netw.
+Net General Info| Netwerk alg. info
+Net Persist Data| Netw. perm. data
+Net DHCP Info| Netw. DHCP-info.
+Net QoS| Netwerk QoS
+Lease Remaining (Seconds)| Resterende lease (sec)
+ Enter Administrator Password|  Voer Beheerderswachtwoord in
+Current Call Server| Huidige gespreksserver
+Device Move Detected| Verplaatsing apparaat gedetecteerd
+Did you move to a new address?\n\nYes - Update your emergency location information| Bent u verhuisd naar een nieuw adres? Ja - Update uw noodlocatie-informatie
+Manual Upgrade| Handmatige upgrade
+Password| Wachtwrd
+Dimmer Level| Niveau dimmer
+AQUARIUS_4 prompts| 
+Network General Info| Netwerk alg. info
+Network Persist. Data| Netwerk permanente data
+Network DHCP Info| Netwerk DHCP-info
+Network QoS| Network QoS
+key opens Voicemail App| toets opent Voicem.-app
+Available Networks| Beschikb. netw.
+ Enter Administrator Password|  Voer Beheerderswachtwoord in
+Lease Remaining (Seconds)| Resterende lease (sec)
+Current Call Server| Huidige gespreksserver
+Device Move Detected| Verplaatsing apparaat gedetecteerd
+Did you move to a new address?\n\nYes - Update your emergency location information| Bent u verhuisd naar een nieuw adres? Ja - Update uw noodlocatie-informatie
+Manual Upgrade| Handmatige upgrade
+Password| Wachtwrd
+Dimmer Level| Niveau dimmer
+AQUARIUS_5 prompts| 
+Network General Info| Netwerk alg. info
+Network Persist. Data| Netwerk permanente data
+Network DHCP Info| Netwerk DHCP info
+Network QoS| Network QoS
+key opens Voicemail App| toets opent Voicem.-app
+Available Networks| Beschikb. netw.
+ Enter Administrator Password|  Voer Beheerderswachtwoord in
+Lease Remaining (Seconds)| Resterende lease (sec)
+Current Call Server| Huidige gespreksserver
+Device Move Detected| Verplaatsing apparaat gedetecteerd
+Did you move to a new address?\n\nYes - Update your emergency location information| Bent u verhuisd naar een nieuw adres? Ja - Update uw noodlocatie-informatie
+Manual Upgrade| Handmatige upgrade
+Password| Wachtwrd
+Dimmer Level| Niveau dimmer
+AQUARIUS_6 prompts| 
+Network General Info| Netwerk alg. info
+Network Persist. Data| Netwerk permanente data
+Network DHCP Info| Netwerk DHCP info
+Network QoS| Network QoS
+key opens Voicemail App| toets opent Voicem.-app
+Available Networks| Beschikb. netw.
+ Enter Administrator Password|  Voer Beheerderswachtwoord in
+Lease Remaining (Seconds)| Resterende lease (sec)
+Current Call Server| Huidige gespreksserver
+Device Move Detected| Verplaatsing apparaat gedetecteerd
+Did you move to a new address?\n\nYes - Update your emergency location information| Bent u verhuisd naar een nieuw adres? Ja - Update uw noodlocatie-informatie
+Manual Upgrade| Handmatige upgrade
+Password| Wachtwrd
+Dimmer Level| Niveau dimmer
+Common prompts| 
+Use DHCP?| DHCP gebruiken?
+Restart Phone?| Toestel herstarten?
+Firmware Info| Firmware info
+DHSG| DHSG
+DHSG is ON| DHSG is Aan
+DHSG is OFF| DHSG is Uit
+Backlight On Time| Display verlichtingstijd
+Directory| Gids
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+IP cannot be equal to gateway address| IP adres kan niet gelijk zijn aan GW adres
+OK| Ok
+Directory empty| Gids leeg
+Files Sent| Bestanden verzonden
+Upload| Uploaden
+Replace| Vervangen
+Merge| Samenvoegen
+Delete Item| Wis item
+Username| Gebruikersnaam
+Use xx to view| Gebr. xx te zien
+Time and Date| Tijd/Datum
+Language| Taal
+Busy| Bezet
+Restart| Herstarten
+All Off| Alles Uit
+Flash| Flash
+Dial| Kies
+Xfer| Doorvrb.
+Reset| Reset
+Select| Keuze
+Speaker/Headset| Luidspr./Heads.
+Headset/Speaker| Heads./Luidspr.
+Off| Uit
+DHCP Settings| DHCP Inst.
+DHCP User Class| DHCP User Class
+Hostname| Hostnaam
+IP Address| IP adres
+Subnet Mask| Subnetmask
+Gateway| Gateway
+Primary DNS| Primaire DNS
+Secondary DNS| Secundaire DNS
+LAN Port VLAN| VLAN LAN poort
+LLDP Settings| LLDP inst.
+Backspace| Terug
+No| Nee
+Yes| Ja
+DHCP Download Options| DHCP download optie
+Restart Phone| Toestel h.start.
+Restarting...| Herstarten...
+Auto| Auto
+DND| DND
+Time Zone| Tijdzone
+Invalid Time| Ongeldige tijd
+Invalid Date| Ongeldige datum
+On| Aan
+Connected| Verbonden
+Cancel| Stop
+Done| Gereed
+No changes made| Niets gewijzigd
+Unknown| Onbekend
+NextSpace| Spatie
+Dot "."| Punt "."
+Transfer Failed| Doorverb mislukt
+Call Forward| Gesprek doorschak.
+All| Alle
+Any| Willekeurig
+Contrast Level| Contrast niveau
+Loading Page...| Pagina laden...
+Connect Timeout| Verbindingsfout
+File Not Found| Best. niet gvndn
+Cannot display| Geen display
+Use TFTP| TFTP gebruiken
+Use FTP| FTP gebruiken
+Use HTTP| HTTP gebruiken
+Use HTTPS| HTTPS gebruiken
+FTP Server| FTP server
+FTP Path| FTP path
+FTP Username| FTP gebruikersnaam
+FTP Password| FTP wachtwoord
+HTTP Server| HTTP server
+HTTP Path| HTTP path
+HTTP Port| HTTP poort
+HTTPS Server| HTTPS server
+HTTPS Path| HTTPS path
+HTTPS Port| HTTPS poort
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Factory Default| Fabrieks inst.
+Factory Default?| Fabrieks inst.?
+MAC Address| MAC Adres
+Status| Status
+Basic Settings| Basis instellingen
+Advanced Settings| Geavanceerde instellingen
+Platform| Platform
+Boot Version| Bootrom versie
+Option 160| Optie 160
+Option 159| Optie 159
+Option 66| Optie 66
+Option 43| Optie 43
+Account| Account
+Line 1| Lijn 1
+Save Settings| Instellingen opslaan
+Enabled| Geactiveerd
+Current Password| Huidig wachtwoord
+New Password| Nieuw wachtwoord
+Back| Terug
+Please restart the phone for the settings to take effect.| Restart toestel om de wijzigingen te activeren
+Incoming Call| Inkomende oproep:
+Configuration Server| Configuratieserver
+Settings| Instellingen
+Download Protocol| Download Protocol
+No Answer| Geen antwoord
+Number| Nummer
+Network| Netwerk
+Invalid IP Address| Ongeldig IP adres
+Invalid gateway address| Ongeldig Gateway adres
+Invalid subnet mask| Ongeldig subnet mask
+Ring Tones| Oproepsignalen
+Do Not Disturb| Niet storen aub
+Save| Opslaan
+Delete| Wissen
+Page 1| Pagina 1
+Page 2| Pagina 2
+Page 3| Pagina 3
+Phone Lock| Toestel blokk.
+Lock the phone?| Toestel blokkeren?
+Lock| Blokkeren
+Unlock| Deblokkeren
+Input Language| Invoer taal
+Jan| Jan
+Feb| Feb
+Mar| Mrt
+Apr| Apr
+May| Mei
+Jun| Jun
+Jul| Jul
+Aug| Aug
+Sep| Sep
+Oct| Okt
+Nov| Nov
+Dec| Dec
+Sun| Zo
+Mon| Ma
+Tue| Di
+Wed| Wo
+Thu| Do
+Fri| Vr
+Sat| Za
+Error| Fout
+Ethernet & VLAN| Ethernet & VLAN
+Unavailable| Niet beschikbaar
+Available| Beschikbaar
+IP&MAC Addresses| IP&MAC Adressen
+LAN Port| LAN Poort
+PC Port| PC Poort
+Set Audio| Audio instelling
+No Error Messages| Geen error meldingen
+Disabled| Uitgeschak.
+Backlight| Display verl.
+Display| Display
+Speed Dial Edit| Snelkeuze edit
+second| seconde
+seconds| seconden
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Identiteit
+Invalid URI| Invalid URI
+Default| Standaard
+Not Configured| Niet conf.
+Invalid Setting| Ongeldige instelling
+Must not be empty| Mag niet leeg zijn
+Must be a valid number| Moet een geldig nummer zijn
+Must be a nonzero number| Mag geen nummer met nul zijn
+Not in range| Niet binnen bereik
+Invalid Hostname| Ongeldige Hostnaam
+Voicemail| Voice-Mail
+Please Wait...| Bezig met laden...
+Options List| Optielijst
+Directory?| Directory?
+Work| Werk
+Search| Zoek
+Handset| Hoorn
+Filtering| Filteren
+ Enter Unlock Password| Voer ontgrendelen wachtwoord
+Today| Vandaag
+Yesterday| Gisteren
+Monday| Maandag
+Tuesday| Dinsdag
+Wednesday| Woensdag
+Thursday| Donderdag
+Friday| Vrijdag
+Saturday| Zaterdag
+Sunday| Zondag
+Set| Instel
+#Confirm| #Bevestigen
+Edit| Wijzigen
+Quit| Stoppen
+Full 10Mbps| Volledige 10Mbps
+Full 100Mbps| Volledige 100Mbps
+Full 1000Mbps| Volledige 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Delete All| Wis alles
+Erase Local Configuration?| Loc. conf wiss?
+Audio| Audio
+Application| Applicatie
+802.1x| 802.1x
+Brightness Timer| Helderheidstimer
+Brightness Level| Helderheidsniveau
+Level 1| Niveau 1
+Level 2| Niveau 2
+Level 3| Niveau 3
+Level 4| Niveau 4
+Level 5| Niveau 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+Line: %d| Lijn: %d
+Invalid %s (%d to %d)| Ongeldig %s (%d to %d)
+Sys Info| Sys Info
+Login| Log in
+Held| Oproep wacht
+Ringing| Bellen
+Ethernet Ports| Ethernet poorten
+Call Server| Call server
+Use Network Time| Gebruik net. tijd
+Speed Dial Key %d| Snelkeuze toets %d
+%d/%d records| %d/%d contacten
+%d days stored| %d dagen opgeslagen
+1 day stored| 1 dag opgeslagen
+Upload System Info Files?| Upload systeem info bestanden?
+Please enter a number| Voer nummer in
+No Matches Found| Niets gevonden
+Name| Naam
+Contact already exists| Naam bestaat al
+Left Softkey %d| Linker toets %d
+Bottom Softkey %d| Onderste toets %d
+All Accounts| Alle accounts
+Exp. Mod. %d Key %d| Exp. mod. %d toets %d
+Mode %d| Modus %d 
+Top Softkey %d| Bovenste toets %d
+Home Screen Mode| Hoofdscherm mode
+Screen Saver Timer| Timer schermbeveiling
+Home Screen| Hoofdscherm
+Please enter a name| Voer een naam in aub
+Brightness| Helderheid
+Business Fax| Fax
+Cannot add new record. Limit reached.| Kan geen nieuw record oevoegen. Maximum is bereikt.
+City| Plaats
+Corporate| Bedrijf
+Country| Land
+Delete %s from %s?| Verwijder %s van %s?
+Delete all entries in %s?| Alle oproepen in %s wissen?
+Directory import failed| Telefoonlijst import mislukt.
+Directory loading| Telefoonlijst laadt
+Directory not available at this time| Telefoonlijst niet beschikbaar op dit moment
+Edit Details| Wijzig details
+Email| E-mail
+Email 1| E-mail 1
+Email 2| E-mail 2
+Email 3| E-mail 3
+Enterprise Directory| Bedrijfsdirectory
+Exchange Contacts| Exchange contacten
+External Sources| Externe bronnen
+Failed to retrieve contact details| Ophalen van contact details mislukt
+Home 1| Privé 1
+Home 2| Privé 2
+Home Address| Privé adres
+Job Title| Beroeptitel
+LDAP| LDAP
+Last%c First| Achternm%c Voornm
+Last Name| Achternaam
+Local| Lokaal
+Microsoft Exchange| Microsoft Exchange
+Mobile| Mobiel
+New Contact| Nieuw contact
+Numbers| Nummers
+Organization| Organisatie
+Other| Andere
+Personal| Persoonlijk
+Personal Contacts| Prsnljk. contacten
+Province/State| Provincie
+Request Failed| Verzoek mislukt
+Street Address| Straatnaam
+Test| Test
+Test Connection| Test verbinding
+Work 2| Werk 2
+Work Address| Werk adres
+Zip/Postal Code| Postcode
+Credentials| Credentials
+Enable/Disable| Inschakelen/Uitschakelen
+Labels| Labels
+Copy| Kopie
+Add New| Nieuw
+Delete selected item or delete all items?| Verwijder geselecteerd item of alle?
+Enter Username| Gebruikersnaam
+Phone Info| Telefoon info
+Attendant| Bedienpost
+BLF Privacy| Bezetindicator privacy
+PIN| PIN
+Capture| Capture
+Start| Start
+Stop| Stop
+Phone will restart automatically after finishing.| Telefoon zal automatisch herstarten na afloop.
+Idle| Rust
+Outgoing| Uitgaand
+Call History is Empty| Oproep historie is leeg
+No Outgoing Calls| Geen uitgaande gesprekken
+No Missed Calls| Geen gemiste oproepen
+No Received Calls| Geen ontvangen oproepen
+Received| Ontvangen
+Missed| Gemiste
+Enterprise Common Directory| Bedrijfsgids
+Group Directory| Groepsgids
+Group Common Directory| Algemene groepsgids
+Call History| Oproep historie
+Bluetooth| Bluetooth
+Scan| Zoek
+Paired Devices| Gekoppelde apparaten
+Available Devices| Besch. apparaten
+Swipe the toggle switch to the right to enable Bluetooth| Veeg de aan/uit schakelaar naar rechts om Bluetooth aan te zetten
+Pairing| Koppelen
+Connecting| Verbinden
+Device| Apparaat
+No paired devices| Geen gekoppelde apparaten
+Connection failed| Verbinding mislukt
+Disconnection successful| Verbreken succesvol
+Disconnection failed| Verbreken mislukt
+Pairing failed| Verbindingsfout       
+Operation failed| Operatie mislukt
+Retry| Opnieuw
+Do you want to forget this device?| Wilt u dit apparaat vergeten?
+Close| Sluiten
+Enabling Bluetooth...| Bluetooth aanzetten...
+Disabling Bluetooth...| Bluetooth uitzetten...
+Connecting...| Verbinden...
+Disconnecting...| Verbreken...
+Warning - All entries in %s will also be deleted| Waarschuwing - alle regels in %s worden ook verwijderd
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Contacts| Contacten
+Unknown| Onbekend
+Connect| Verbinden
+%s disconnected| %s Verbroken
+%s connected| %s Verbonden
+Failed to disable Bluetooth| Uitschakelen Bluetooth Mislukt
+Failed to enable Bluetooth| Inschakelen Bluetooth Mislukt
+Port Mirroring| Poorten spiegelen
+Audio Feedback| Audiofeedback
+Audio Path| Audiopad
+Button Beep| Knopsignaal
+Error Beep| Foutsignaal
+Made| Gemaakt
+To my prime line| Op mijn primaire lijn
+To any appearance| Op elke lijnweergave
+Display Call Info| Oproepinfo weergeven
+Always| Altijd
+Busy Internal| In gespr. intern
+Busy External| In gespr. extern
+No Answer Internal| Geen antw. intern
+No Answer External| Geen antw. extern
+Copy to All?| Kopie naar allen
+Loading...| Laden...
+Password Changed| Wachtwoord gewijzigd
+Restore Default| Standaard herstellen
+Enter Again| Opnieuw invoeren
+Erase| Wissen
+Set All| Alles instellen
+VLAN Settings| VLAN instellngen
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Geavncrd
+Phonebook| Telefoonboek
+Update| Bijwerken
+Copyright| Auteursrecht
+Pause| Pauze
+Incorrect password|  Verkeerd wachtwoord
+Level 0| Niveau 0
+Static Network Settings| Statische netwerkinstellingen
+Enter| Invoer
+Reset Configuration?| Reset configuratie?
+TCP DUMP| TCP-dump
+minutes| minuten
+IP and gateway have to be on the same subnet| IP en gateway moeten zich op hetzelfde subnet bevinden
+Call Server IP Address| IP adres call server
+TFTP Server IP Address| IP adres TFTP server
+IPA IP Address| IP adres IPA
+Ping| Ping
+Test POE| POE testen
+Host Name or IP Address| Hostnaam of IP adres
+Please enter a valid HostName/IP Address| Voer een geldig(e) hostnaam/MAC adres in
+Pinging %s...| %s pingen...
+Add Contact| Contactpersoon toevoegen
+Cannot dial a private number| Kan geen privénummer bellen
+Delete all contacts from %s?| Alle contacten van %s verwijderen?
+Search contacts| Contactpersonen zoeken
+CDP Settings| CDP instellingen
+Current Network Settings| Huidige netwerkinstellingen
+VLAN Id| VLAN ID
+DSCP Default| DSCP standaard
+DSCP Voice| DSCP spraak
+DSCP Signaling| DSCP signalering
+DSCP Other| DSCP overig
+L2P Default| L2P standaard
+L2P Voice| L2P spraak
+L2P Signaling| L2P signalering
+L2P Other| L2P overig
+Modify PIN| PIN wijzigen
+Registering...| Registreren...
+Erase PIN| PIN wissen
+Erase PIN?| PIN wissen?
+Duration| Duur
+Details| Details
+First Name| Voornaam
+Home| Thuis
+People| Personen
+Contacts - Add New| Contactpersonen - Nieuwe toevoegen
+Entry copied to| Gekopieerd naar
+Settings - Bluetooth| Instellingen - Bluetooth
+Screen Saver| Screensaver
+Paired| Gekoppeld
+Press the Turn On softkey to enable Bluetooth| Druk op de functietoets Inschakelen om Bluetooth in te schakelen
+Connected successfully| Verbonden
+Directory is full| Lijst vol
+Directory full| Map vol
+Do you want to connect this device?| Wilt u dit apparaat verbinden?
+Do you want to disconnect this device?| Wilt u de verbinding met dit apparaat verbreken?
+%s audio connected| %s audio verbonden
+%s audio connection failed| %s audioverbinding mislukt
+Pair with %s\nPairing code - %06ld| Koppelen met %s\nKoppelingscode - %06ld
+Do you want to get the device's contacts?| Wilt u de contactpersonen van het apparaat ophalen?
+Retrieving contacts...| Contactpersonen ophalen...
+Contacts retrieved successfully| Contactpersonen opgehaald
+Phonebook retrieval unavailable| Telefoonboek ophalen niet beschikbaar
+ Failed to retrieve contacts|  Kan contactpersonen niet ophalen
+Ongoing Call| Lopend gesprek
+Press scan to find a device| Druk op Scannen om een te apparaat zoeken
+Please Wait. Scanning for nearby devices| Even geduld.... Scannen naar apparaten in de buurt
+Connect Automatically| Automatisch verbinding maken
+Pairing ...| Koppelen...
+Successfully paired| Koppeling geslaagd
+Unable to pair with the device| Kan niet koppelen met het apparaat
+Does the passkey match?| Komt het wachtwoord overeen?
+Unpair| Ontkoppelen
+Bluetooth is currently off.| Bluetooth is momenteel uitgeschakeld.
+Turn Off| Uitschakelen
+Turn On| Inschakelen
+Turn off| Uitschakelen
+Turn on| Inschakelen
+Sorry! Unable to turn Bluetooth on. | Helaas! Kan Bluetooth niet inschakelen. 
+Sorry! Too many devices paired.| Helaas! Te veel apparaten gekoppeld.
+Forget| Vergeten
+Unknown Caller| Onbekende beller
+Answer| Beantw.
+Decline| Weigeren
+Push Call| Push oproep
+End Call| Eind gesprek
+Caller| Beller
+Disconnect| Verbinding verbreken
+Capturing ...| Vastleggen...
+Speaker| Luidspreker
+Headset| Koptelefoon
+Ringer| Beltoon
+Internal Ring| Interne beltoon
+External Ring| Externe beltoon
+Classic 1| Klassiek 1
+Classic 2| Klassiek 2
+Classic 3| Klassiek 3
+Classic 4| Klassiek 4
+Classic 5| Klassiek 5
+Classic 6| Klassiek 6
+Classic 7| Klassiek 7
+Classic 8| Klassiek 8
+Classic 9| Klassiek 9
+Classic 10| Klassiek 10
+Call Notification| Gespr.melding
+Config Teleworker| Config Teleworker
+Diagnostics| Diagnose
+MinetDump| MinetDump
+Float Keys| Zwevende toetsen
+Network Services| Netwerkdiensten
+DHCP Trace| DHCP trace
+Firewall Settings| Firewall instellingen
+Wi-Fi| Wi-Fi
+Port Info| Poortinfo
+Error Message| Foutbericht
+TFTP Server Port| TFTP serverpoort
+DHCP Status| DHCP status
+T1 (Seconds)| T1 (seconden)
+T1 Left (Seconds)| T1 resterend (sec.)
+T2 (Seconds)| T2 (seconden)
+T2 Left (Seconds)| T2 resterend (sec.)
+LAN Port Speed| Snelheid LAN poort
+LAN Port Duplex| Duplex LAN poort
+PC Port Speed| Snelheid pc poort
+PC Port Duplex| Duplex pc poort
+Model| Model
+Call Server Rev.| Call server rev.
+Main Version| Hoofdversie
+Save to Confirm or Cancel to Revert| Opslaan om te bevestigen of Annuleren om terug te gaan
+Hardware Rev.| Hardware rev.
+Change| Wijzigen
+Change Password| Wachtwoord wijzigen
+Confirm Password| Wachtwoord bevestigen
+ Blank|  Leeg
+ Wrong|  Verkeerd
+ Passwords don't match.|  Wachtwoorden komen niet overeen.
+No Link| Geen link
+Half-Duplex| Half-duplex
+Full_Duplex| Full-duplex
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| Copyright Mitel Networks Corporation 2016.\nAlle rechten voorbehouden.
+Proxy Logoff| Proxy afmelden
+No Network| Geen netwerk
+Contacting Server| Contact maken met server
+Private| Prive
+Miscellaneous| Diversen
+Programmable Key| Programmeerbare toets
+Speed Call| Verkort kiezen
+Other Features| Andere functies
+Account Code Verified| Accountcode geverifieerd
+Acct Verified| Acc geverif.
+Call Forward Always| Gesprek altijd doorschakelen
+Fwd Always| Altijd DS
+Account Code Non Verified| Accountcode niet geverifieerd
+Acct Non-Ver| Acc niet gev
+Name or Number is empty| Naam of nummer is leeg
+Label Name| Labelnaam
+Rename| Naam wijzigen
+Rename this device| Apparaatnaam wijzigen
+PKM version| Versie PKM
+Department| Afdeling
+Location| Locatie
+Softphone| Softphone
+My Phone| Mijn telefoon
+More ...| Meer...
+Restart| Herstart
+Searching| Zoeken
+Send| Zenden
+Log Issue| Probleem opslaan
+Logging Issue| Problemen met logboekregistratie
+Administrator access is disabled| Administrator toegang is uitgeschakeld
+Please input a duration between 1 and 1440 minutes| Voer duur in tussen 1 en 1440 minuten
+Please input a duration between 1 and 5 minutes| Voer duur in tussen 1 en 5 minuten
+Teleworker Settings| Teleworker instellingen
+Invalid TFTP Port| Ongeldige TFTP poort
+Cannot copy a private number| Kan geen privénummer kopiëren
+Search Corporate| Zoeken in bedrijfstelefoongids
+Warning| Waarschuwing
+Configuration changes detected\nApplication must be closed| Configuratiewijzigingen aangetroffen\nApp moet worden gesloten
+Desktop Portal URL| Desktop Portal-URL
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| EPA-type
+Phone Numbers| Telefoonnummers
+ Max Exceeded|  Max overschreden
+Press "%s" key to search corporate contacts| Druk op "%s" om te zoeken in de bedrijfstelefoongids
+Too many answers\nRefine your search| Te veel antwoorden\nVerfijn uw zoekopdracht
+Not available\nConfiguration error| Niet beschikbaar\nConfiguratiefout
+DHCP Trace information is not available| DHCP trace informatie is niet beschikbaar
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| IP-conflict gedetecteerd
+Do you want to save this IP?| Wilt u dit IP adres opslaan?
+Max allowed Number length is 26| Max. toegestane nummerlengte is 26
+Enabling DHSG Headset...| DHSG headset inschakelen...
+Disabling DHSG Headset...| DHSG headset uitschakelen...
+Enter name| Voer naam in
+Lastname Firstname| Achternaam Voornaam
+Call History currently not available| Oproep historie nu niet beschikbaar
+Audio Diagnostics| Audio Diagnostics
+Avatars| Avatars
+Request timed out| Voor de aanvraag is een time-out opgetreden
+Complete ...| Voltooid...
+Collecting Logs ...| Logboeken worden verzameld...
+Pair| Verbinden
+Bluetooth pairing request| Koppelverzoek Bluetooth
+Login failed| Aanmelden mislukt
+Low Battery| Batterij raakt leeg
+Incoming Call from %s| Inkomend gesprek van %s
+Incoming Call from %s (%s)| Inkomend gesprek van %s (%s)
+DECT Headset| DECT Headset
+Paired Devices| Gekoppelde Apparaten
+Available Devices| Besch. Apparaten
+Cloud Domain| Cloud-Domein
+Replay| Opnieuw
+Backward| Terug
+Forward| Doorschakelen
+Send To| Verzenden naar
+Logout| Afmelden
+To Email| Naar e-mail
+Delete Failure| Wissen mislukt
+Play Failure| Afspel. mislukt
+Play Failure due to a system error. See your system administrator.| Afspeelfout door systeemfout. Neem contact op met uw systeembeheerder.
+Save Failure| Opslaan mislukt
+Voicemail and Recordings| Voicemail en opnamen
+Voicemail User Login| Voicemail-login
+Number not available| Nr. niet beschikbaar
+To| Naar
+Voicemail has been sent.| Voicemail is verzonden.
+Error in sending Voicemail. Please send it again.| Fout bij het verzenden van Voicemail. Probeer het opnieuw te verzenden.
+Voicemail has been sent to email.| Voicemail verzonden naar e-mail.
+Error in sending to Email.| Fout bij verz. naar e-mail
+New| Nieuw
+Recorded| Opgenomen
+Receipt Confirmation| Ontvangstbevestiging
+Passcode| Toegangscode
+Mailbox Number| Mailboxnummer
+Remember passcode| Onthd toeg.code
+Passcode is incorrect. Enter a valid passcode.| Toegangscode is onjuist. Voer een geldige toegangscode in.
+Invalid mailbox number.| Ongeldig mailboxnummer.
+Error - Mailbox in use| Mailbox in gebruik
+Error - maximum sessions exceeded| Fout: max. sessies overschreden
+Error - no session exists| Fout: geen sessies
+Error - bad extension| Ongeldig toestel
+Mailbox locked for security reasons. See your system administrator.| Mailbox om veiligheidsredenen vergrendeld. Neem contact op met uw systeembeheerder.
+DECT Headset Version| DECT-headsetversie
+RTT min/avg/max| RTT min/gem/max
+traceroute to| traceroute naar
+hops max| hops max
+Exit| Einde
+PIN Changed| PIN gewijzigd
+Erase Settings?| Instel. wissen?
+Log Issue?| Logboekprobl?
+Contrast| Contrast
+Error (Min:%d Max:%d)| Fout(Min:%d Max:%d)
+TCP DUMP?| TCP-dump?
+Tracerouting...| Traceroutering...
+Tracert Complete| Tracer compleet
+Traceroute| Traceroute
+User Settings| Gebr. Instell.
+PIN Confirm?| PIN bevestigen?
+Enter PIN| Voer PIN in
+Pin incorrect| Pin onjuist
+IP/Subnet/Gateway| IP/Subn/Gateway
+DNS Servers| DNS-servers
+Timeout 1-1440 Min| Timout 1-1440 m
+Timeout 1-5 Minutes| Time-out 1-5 m
+Timeout 1-3 Minutes| Time-out 1-3 m
+Packet Capture| Pakket opname
+Audio Capture| Audio opname
+Start Capture| Opname starten
+Start Capture?| Opname starten?
+Stop Capture| Opname stoppen
+Stop Capture?| Opname stoppen?
+Duration(Minutes)| Duur (Minuten)
+Packets Tx:| Pakketten Tx:
+Packets Rx:| Pakketten Rx:
+byte packets| Byte pakketten
+TFTP Server| TFTP-server
+IPA Server| IPA-server
+Hostname/IP addr.| Hostnaam/IP-adr
+Pinging...| Pingen...
+Request Cancelled| Aanvr. geannul.
+Deleting mobile contacts| Cont. v uw mob tel verw
+No Mobile Calls| Geen mob. opr.
+Forgetting Device...| Apparaat verget.
+Press 'OK' to attempt MiCloud Connect auto-register. Or enter DID and Password if provided.| Druk op ‘OK’ om MiCloud Connect autoregistr. te prob. Of voer in GEDAAN en Wachtw, indien verschaft.
+%s temporarily disconnected| %S tijd. verbroken
+ Unable to pair. Retry after this call.| Verb. onmog. Prob. Opn. na dit gespr.
+Unable to connect. Device will reconnect after this call.| Kan niet verbinden. Apparaat verbindt opnieuw na deze oproep.
+Unable to connect. Retry after this call.| Kan geen verb. maken. prob. opn. na dit gespr.
+Call History retrieval unavailable| Oproephist. ophalen niet beschikb.
+Failed to retrieve Call History| Kan oproephistorie niet ophalen
+Bluetooth pairing request| Koppelverzoek Bluetooth
+Only one Handset can be paired to this phone| Kan slechts één handset koppelen met deze telefoon
+Only one Mitel S720 Bluetooth Speakerphone can be paired to this phone| Kan slechts 1 Mitel S720 BT-luidspr.tel. koppelen
+Only one Mitel S720 BT Speakerphone can be paired to this phone| Kan slechts 1 Mitel S720 BT-luidspr.tel. koppelen
+External Speaker| Ext luidspreker
+Restoring factory default and restarting ...| Stand. fabrieksinst. Herst. en opn. starten...
+Music| Muziek
+Call Server 1| Gespreksserv 1
+Call Server 2| Gespreksserv 2
+Call Server 3| Gespreksserv 3
+Call Server 4| Gespreksserv 4
+DHCP Server| DHCP-server
+T3 (Seconds)| T3 (seconden)
+T3 Left (Seconds)| T3 rest. (sec.)
+Lease Remaining Left (Seconds)| Rest. lease (s)
+Phone Uptime| Uptime telefoon
+Test Modes| Test Modi
+LAN Port T1| LAN-Poort T1
+LAN Port T4| LAN-Poort T4
+PC Port T1| PC-Poort T1
+PC Port T4| PC-Poort T4
+Copyright Mitel Networks Corporation | Copyright Mitel Networks Corporation 
+.\nAll rights reserved.| .\nAlle rechten voorbehouden.
+Logging Issue..| Prob m inlog..
+Logging Issue....| Prob m inlog....
+Logging Issue......| Prob m inlog......
+Logging Issue........| Prob m inlog........
+Mobile Line| Mob. lijn
+External Contacts| Externe contacten
+Press "%s" key to search external contacts| Druk op toets “%s” om ext contact te zoek
+Not available\nPlease contact your administrator| Niet beschikbaar\nContacteer de beheerder
+My Mobile| Mijn mob.
+Restarting Network...| Netw herstarten...
+Remember my passcode| Onthoud toegangscode
+%s - %d% battery remaining| Nog %s - %d% batterij
+DECT Power/Bandwidth| DECT Vermogen/Bandbreedte
+Only one Mobile Line key can be programmed.| Kan slechts 1 toets voor Mob. lijn config.
+File Server| Best.server
+WaveStreaming| WaveStreaming
+Refresh| Vernieuwen
+Saved Network| Opgesl. netw.
+WLAN adapter is not connected| WLAN-adapter is niet aangesloten
+No Saved Network| Geen opgeslagen netwerk
+Enter Password| Voer wachtw. in
+Searching for networks| Zoeken naar netwerken
+Reboot WLAN adapter and phone to save settings?| WLAN-adapter en tel. rebooten en instell. opslaan?
+Voice Services| Voice Dienstverlening
+Service Type| Dienstverlening Type
+MiVoice Border Gateway| MiVoice Border Gateway
+MiV BorderGateway| MiV BorderGateway
+MiCloud Connect| MiCloud Connect
+MiVoice Connect| MiVoice verbinden
+User DID| Gebruikers-DID
+Invalid %s| Ongeldig %s
+Domain (required)| Domein (vereist)
+Register| Registreren
+Register?| Registreren?
+USB Wireless| USB Draadloos
+Enabling USB Wireless...| USB Draadloos Inschakelen...
+Disabling USB Wireless...| USB Draadloos Uitschakelen...
+Next| Volgende
+Server Address| Serveradres
+Log capture in progress| Logboekopn. wordt uitgev.
+Stopping Log capture| Stoppen logboekopname
+Audio capture in progress| Audio-opname wordt uitgev
+Stopping audio capture| Stoppen audio-opname
+Not Available Yet| Nog niet beschikbaar
+Restart Network| Netw herstarten
+Restart Network?| Netw herstartn?
+Config Server| Server config
+Personal Mode| Persoonlijke modus
+Disable Hotdesk Logout Pop-up| Pop-up uitloggen Hotdesk uitschakelen.
+Wideband| Breedband
+Narrowband| Smalband
+Configuring DECT| DECT configureren
+Reflective Room| Stiltekamer
+Auto 100Mbps| Auto 100Mbps
+%s temporarily disconnected. PC Audio is now on your PC.| %s tijdelijk verbinding verbroken. PC-audio staat nu op uw PC.
+\n\nPrivacy Policy\nhttps://www.mitel.com/legal/mitel-application-privacy-policy| \n\nPrivacybeleid\nhttps://www.mitel.com/wettelijk/mitel-applicatie-privacybeleid
+Mobile/PC Line| Mobiele/PC-lijn
+Only one Mobile/PC Line key can be programmed.| Er kan slechts één Mobiele/PC-lijntoets worden geprogrammeerd.
+Teleworker| Telewerker
+DSP TE| DSP TE
+DSP TE| DSP TE
+HotDesk| HotDesk
+Hot Desk| Hotdesk
+Voicedial| Spraakgestuurde oproep
+Speed Calls| Verkort kiezen
+Room Meetings| Kamervergaderingen
+Settings| Instellingen
+Meetings| Vergaderingen
+Release Version| Release-versie
+Last Commit| Laatste commit
+External Mics| Externe mics
+DSP FW Version| DSP FW-versie
+DSP TE| DSP TE
+You are currently logged in to Hotdesk. Would you like to remain logged in?| U bent momenteel ingelogd bij Hotdesk. Wilt u ingelogd blijven?
+Keep me logged in| Houd me ingelogd
+BLE Power| BLE-voeding
+Calibration Data| Kalibratiegegevens
+HW Id:| HW-ID:
+    MREV|     MREV
+    AVER|     GEMM
+    MUTE|     GEDEMPT
+Enable G729 codec support| G729-codecondersteuning inschakelen
+Restart needed| Opnieuw opstarten vereist
+Will reconnect to the server for the settings to take effect.| Maakt opnieuw verbinding met de server om de instellingen te activeren.
+Reconnect| Opnieuw verbinden
+Reconnect later| Later opnieuw verbinden
+Press # on the dialpad to enter a Dot "."| Druk op # op het toetsenblok om een punt “.” in te voeren
+TFTP Server| TFTP-server
+TFTP Port| TFTP-poort
+TFTP Path| TFTP-pad
+Bluetooth Advanced Settings| Geavanceerde Bluetooth-instellingen
+Never| Nooit
+Hot desk Only| Alleen hotdesk
+Automatically reconnect mobile phone| Mobiele telefoon automatisch opnieuw verbinden
+PC Audio| PC-audio
+PC| PC
+PC Connected| PC-verbonden
+Bluetooth Handset is not supported for PC Audio| Bluetooth-handset wordt niet ondersteund voor PC-audio
+Bluetooth Headset is not supported for PC Audio| Bluetooth-headset wordt niet ondersteund voor PC-audio
+S720 Bluetooth Speakerphone is not supported for PC Audio| S720 Bluetooth-luidsprekertelefoon wordt niet ondersteund voor PC-audio
+BT Handset is not supported for PC Audio| BT-handset wordt niet ondersteund voor PC-audio
+BT Headset is not supported for PC Audio| BT-headset wordt niet ondersteund voor PC-audio
+S720 Speakerphone is not supported for PC Audio| S720-luidsprekertelefoon wordt niet ondersteund voor PC-audio
+Unsupported Device. Pairing denied| Niet-ondersteund apparaat. Koppelen geweigerd
+Connecting this device will disconnect your PC| Als dit apparaat wordt aangesloten, wordt de verbinding met uw PC verbroken
+Connecting this device will disconnect your Mobile| Als dit apparaat wordt aangesloten, wordt de verbinding met uw mobiele telefoon verbroken
+Pair with %s| Koppelen met %s
+Please initiate pairing from the PC/MAC| Start het koppelen vanaf de PC/MAC
+Delete failure. Mailbox uninitialized. See your system administrator.| Verwijderen mislukt. Mailbox niet geïnitialiseerd. Neem contact op met uw systeembeheerder.
+Connecting devices. This may take several seconds...| Bezig met apparaten aansluiten. Dit kan meerdere seconden duren.
+Bluetooth Handset| Bluetooth-handset
+Connecting PC Audio...| PC-audio aansluiten ...
+Dump DECT Logs| Dump DECT logs
+High Power| Hoog vermogen
+Low Power| Laag vermogen
+Max allowed Name length is 20| Max. toegestane naamlengte is 20
+NB Level Comp| NB niveau comp
+Very Low Power| Zeer laag vermogen
+Cordless Handset Version| Draadloze Handset Versie
+USB Overload detected| USB-overbelasting gedetecteerd
+Remove USB device and then press OK.| USB-apparaat verwijderen en vervolgens op OK drukken.
+Press "Turn on" to enable Wi-Fi| Druk op "Aanzetten" om Bluetooth in te schakelen
+Search Failed| Zoeken mislukt
+Reboot phone to save settings?| Telefoon herstarten om instellingen te bewaren?
+Confirm Region| Regio bevestigen
+Is this phone being deployed within the United States?| Wordt deze telefoon geïmplementeerd in de Verenigde Staten?
+Please contact system administrator to enable Wi-Fi| Contacteer de systeembeheerder om Wi-Fi in te schakelen
+LAN IP Address| LAN-IP-adres
+Wi-Fi IP Address| Wi-Fi-IP-adres
+LAN MAC Address| LAN-MAC-adres
+Wi-Fi MAC Address| Wi-Fi-MAC-adres
+Connected SSID| Aangesloten SSID
+Enabling Wi-Fi...| Wi-Fi inschakelen...
+Disabling Wi-Fi...| Wi-Fi uitschakelen...
+Save and Connect?| Opslaan en verbinden?
+Bluetooth Address| Bluetooth-adres
+Remote Upgrade (SIP)| Upgrade op afstand (SIP)
+Remote Upgrade (MiNet)| Upgrade op afstand (MiNet)
+F/W Download Failed\nUnable to download from\n%s| F/W Download mislukt \n Kan niet downloaden van \n %s
+Downloading new main firmware.\nPhone will reboot automatically.| Nieuwe firmware wordt gedownload. \n De telefoon zal automatisch herstarten.
+Upgrade main done| Upgrade hoofdapparaat gedaan
+Upgrade main not required| Upgrade hoofdapparaat niet nodig
+Upgrade main not required (incompatible version).| Upgrade hoofdapparaat niet nodig (incompatibele versie).
+Energy Efficient| Energiezuinig
+LAN| LAN
+LAN and PC| LAN en pc
+Add Network| Netw. toevoegen
+Hidden Network| Verborgen netwerk
+Wi-Fi Settings| Wi-Fi-instellingen
+Security| Veiligheid
+Open| Open
+WPA2-Personal| WPA2-Personal
+WPA2-Enterprise| WPA2-Enterprise
+WPA3-Personal| WPA3-Personal
+WPA3-Enterprise| WPA3-Enterprise
+Network Name| Netwerknaam
+Supplied Power is Insufficient| Geleverd vermogen is omvoldoende
+Recommend using 48V Power Adapter| Aanbevol. om 48V-voed.adapt. te gebruiken
+Not Connected| Niet Verbonden
+Static IPv4| Stat. IPv4
+DHCPv6 Trace| DHCPv6 Spoor
+Wi-Fi Option?| Wi-Fi optie?
+No Ethernet cable attached\n would you like to connect via Wi-Fi?| Geen Ethernet-kabel verbonden\n wilt u verbinden via Wi-Fi?
+Wi-Fi is not allowed!| Wi-Fi is niet toegelaten!
+This phone is not permitted to connect via Wi-Fi\nplease plug phone in via Ethernet cable and select OK| Deze telefoon mag niet verbonden worden via Wi-Fi\n sluit hem aan via de Ethernet-kabel en selecteer OK
+Auto Country| Auto land
+Country Code Changed\n phone will reboot| Landcode gewijzigd\n telefoon herstart
+Guest Services| Diensten voor gasten
+Wakeup Calls| Wekoproepen
+DND Status| DND-status
+Enter Room Number:| Voer kamernummer in:
+Do Not Disturb (DND)| Gelieve niet te storen (DND)
+Wakeup Time (24-hr format)| Wektijd (24u-formaat)
+(24-hr format)| (24u-formaat)
+2nd Wakeup (>%d mins)| 2e x wekken
+3rd Wakeup (>%d mins)| 3e x wekken 
+Go| Verder
+Clear All| Alles wissen
+Switch Room| Wissel kamer
+Tomorrow| Morgen
+Room| Kamer
+Invalid Room| Ongeldige kamer
+Clear all wakeup calls| Alle wekoproepen wissen
+Would you like to clear all wakeup calls for Room %s?| Wilt u alle wekoproepen voor kamer %s wissen?
+Add up to three wakeup calls for the next 24hrs.| Voeg voor 24u tot 3 wekdiensten toe. 
+Please enter time between %s| Geef een tijd op tussen %s
+There are no upcoming wakeup calls for Room %s| Geen geplande wekoproepen voor kamer %s
+There are no upcoming wakeup calls| Geen geplande wekoproepen
+DND is currently OFF| DND staat UIT
+DND is currently ON| DND staat AAN
+Add up to 3 wakeup calls for the next 24 hours| Voeg tot 3 wekoproepen toe voor de volgende 24u
+Please enter time between 00:00 and 23:59| Gelieve een tijd in te voeren tussen 00:00 en 23:59
+Failed to Save Data| Gegevens opslaan mislukt
+Failed to Retrieve Data| Gegevens ophalen mislukt
+Authentication Failed| Authentificatie mislukt
+%d attempts left before your account gets locked. Please contact Administrator for assistance.| nog %d pogingen voordat uw account geblokkeerd wordt. Contacteer de beheerder voor hulp.
+1 attempt left before your account gets locked. Please contact Administrator for assistance.| nog 1 poging voordat uw account geblokkeerd wordt. Contacteer de beheerder voor hulp.
+Your account has been temporarily locked for %d minutes due to too many login attempts. Please try later or contact Administrator for assistance.| Uw account is tijdelijk geblokkeerd gedurende %d minuten wegens te veel inlogpogingen. Gelieve het later te proberen of contacteer de beheerder voor hulp.
+Network Connection Issue| Netwerkverbindingsprobleem
+Wakeup time needs to be %d minutes apart| Wektijd moet %d minuten verwijderd zijn
+Failed to Delete Data| Gegevens verwijderen mislukt
+Failed to Clear All Data| Alle gegevens wissen mislukt
+Must be before %s| Moet voor %s zijn
+Static IPv6| Stat. IPv6
+Invalid Prefix len| Ongeldige prefix Len
+Net IPv6 Info| Net IPv6 Info
+IPv6 Addr| IPv6 Addr
+Prefix Len| Prefix Len
+Static IPv6 Settings| Stat IPv6 inst.
+Net ICP List| Net ICP lijst
+Net DHCPv6| Net DHCPv6
+Preferred (Seconds)| Verkozen (sec.)
+Valid (Seconds)| Geldig (sec.)
+Invalid Address| Ongeldig Adres
+RA Flags| RA vlaggen
+Lifetime (sec)| Leven (sec.)
+Recursive DNS| Recursieve DNS
+Prefix| Prefix
+RA Prefix Flags| RA prefix vlaggen
+Prefix Valid (sec)| Prefix geldig (sec)
+Prefix Pref (sec)| Prefix pref (sec)
+Display off while locked| Scherm uit bij niet gebruik
+Please unpair this device from %s and try again| Koppel dit apparaat los van %s & probeer opnieuw
+Restart to SIP| Herstart naar SIP
+Camera Disconnected| Camera losgekoppeld
+Connecting ...| Verbinden ...
+Camera Unreachable| Camera niet bereikbaar
+Connection Failed| Verbinding mislukt
+Retrying ...| Opnieuw proberen ...
+Camera connection lost - Retrying...| Camera-verbinding verbroken - Opnieuw proberen ...
+Camera connection lost| Camera-verbinding verbroken
+Camera Connected| Camera verbonden
+Network Failure| Netwerkfout
+Stream Started| Stream gestart
+System Error - Please Reboot| Systeemfout - Start opnieuw op
+Screen Dimmer| Scherm dimmer
+Dimmer Timer| Dimmer time
+End| Einde
