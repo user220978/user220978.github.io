@@ -1,2 +1,4 @@
 # user220978.github.io
-user220978 Static Website
+
+[MINET](Mitel/Firmware/Handsets/6900/MINET/)
+[SIP](Mitel/Firmware/Handsets/6900/SIP/)
