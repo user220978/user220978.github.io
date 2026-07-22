@@ -3,7 +3,7 @@
 #DEVICE_TYPE  hexValue    firmwareVersion          
 #Comment lines start with '#'          
 
-SET6907        0xF0        03.02.00.015
-SET6920w        0xE6        03.02.00.015
-SET6930w        0xE7        03.02.00.015
-SET6940w        0xE8        03.02.00.015
+SET6907        0xF0        03.02.00.027
+SET6920w        0xE6        03.02.00.027
+SET6930w        0xE7        03.02.00.027
+SET6940w        0xE8        03.02.00.027
