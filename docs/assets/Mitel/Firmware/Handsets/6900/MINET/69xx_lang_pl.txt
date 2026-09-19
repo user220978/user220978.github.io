@@ -750,7 +750,6 @@ Duration(Minutes)| Czas trw. (min)
 Packets Tx:| Pakiety wys.:
 Packets Rx:| Pakiety odb.:
 byte packets| pakiety bajtowe
-TFTP Server| Serwer TFTP
 IPA Server| Serwer IPA
 Hostname/IP addr.| N. hosta/adr.IP
 Pinging...| Testowanie...

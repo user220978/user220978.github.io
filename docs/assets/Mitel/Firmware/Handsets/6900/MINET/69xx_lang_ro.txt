@@ -751,7 +751,6 @@ Duration(Minutes)| Durată (min.)
 Packets Tx:| Tx pachete:
 Packets Rx:| Rx pachete:
 byte packets| Pachete bytes
-TFTP Server| Server TFTP
 IPA Server| Server IPA
 Hostname/IP addr.| Hostname/adr.IP
 Pinging...| Se face ping...

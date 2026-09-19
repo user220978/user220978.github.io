@@ -340,6 +340,29 @@ IPA Server| IPA Server
 Firmware Info| Firmware Info
 Platform| Platform
 Phone Info| Phone Info
+Beacon Info| Beacon Info
+Beacon| Beacon
+Beacon Mode| Beacon Mode
+iBeacon| iBeacon
+Eddystone| Eddystone
+Eddystone URL| Eddystone URL
+UUID| UUID
+Major| Major
+Minor| Minor
+Beacon Interval| Beacon Interval
+URL| URL
+Activated| Activated
+Beacon Disable| Beacon Disable
+Beacon Settings| Beacon Settings
+Applying Beacon configuration...| Applying Beacon configuration...
+Invalid URL format| Invalid URL format
+Invalid prefix| Invalid prefix
+Domain name must be < 17| Domain name must be < 17
+%s cannot be empty| %s cannot be empty
+Invalid Interval value. Must be > 0| Invalid Interval value. Must be > 0
+Invalid Minor value. Must be 0-65535| Invalid Minor value. Must be 0-65535
+Invalid Major value. Must be 0-65535| Invalid Major value. Must be 0-65535
+Invalid UUID format.| Invalid UUID format.
 MAC Address| MAC Address
 Advanced Settings| Advanced Settings
 Back| Back
@@ -885,7 +908,6 @@ Use TFTP| Use TFTP
 Use FTP| Use FTP
 Use HTTP| Use HTTP
 Use HTTPS| Use HTTPS
-TFTP Server| TFTP Server
 TFTP Port| TFTP Port
 TFTP Path| TFTP Path
 FTP Server| FTP Server

@@ -311,7 +311,7 @@ Login| Connex.
 Held| En garde
 Ringing| Sonne
 Ethernet Ports| Ports Ethernet
-Call Server| Call Server
+Call Server| Serveur d’appel
 Use Network Time| Utiliser NTP
 Speed Dial Key %d| Num. Rapide %d
 %d/%d records| %d/%d enregistrements
@@ -750,7 +750,6 @@ Duration(Minutes)| Durée (minutes)
 Packets Tx:| Paquets Tx :
 Packets Rx:| Paquets Rx :
 byte packets| Paquets d’octet
-TFTP Server| Serveur TFTP
 IPA Server| Serveur IPA
 Hostname/IP addr.| NomHôte/adr. IP
 Pinging...| Test ping...

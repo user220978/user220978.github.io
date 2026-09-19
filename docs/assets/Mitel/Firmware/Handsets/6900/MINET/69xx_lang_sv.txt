@@ -749,7 +749,6 @@ Duration(Minutes)| Varakti. (min.)
 Packets Tx:| Paket Tx:
 Packets Rx:| Paket Rx:
 byte packets| byte-paket
-TFTP Server| TFTP-server
 IPA Server| IPA-server
 Hostname/IP addr.| Värdnamn/IP-adr
 Pinging...| Pingar...

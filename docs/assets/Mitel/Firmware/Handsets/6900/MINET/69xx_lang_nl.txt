@@ -741,7 +741,6 @@ Duration(Minutes)| Duur (Minuten)
 Packets Tx:| Pakketten Tx:
 Packets Rx:| Pakketten Rx:
 byte packets| Byte pakketten
-TFTP Server| TFTP-server
 IPA Server| IPA-server
 Hostname/IP addr.| Hostnaam/IP-adr
 Pinging...| Pingen...

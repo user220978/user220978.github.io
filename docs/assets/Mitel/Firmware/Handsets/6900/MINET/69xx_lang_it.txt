@@ -749,7 +749,6 @@ Duration(Minutes)| Durata (Minuti)
 Packets Tx:| Pacc trasmessi:
 Packets Rx:| Pacc ricevuti:
 byte packets| Byte pacchetti
-TFTP Server| Server TFTP
 IPA Server| Server IPA
 Hostname/IP addr.| Ind.Hostname/IP
 Pinging...| Trasmettendo...

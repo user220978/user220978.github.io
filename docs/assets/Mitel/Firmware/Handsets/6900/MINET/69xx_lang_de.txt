@@ -64,7 +64,7 @@ key opens Voicemail App| Taste öffnet Voicemail-App
 Available Networks| Verfügbare Netzwerke
  Enter Administrator Password|  Administrator-Passwort eingeben
 Lease Remaining (Seconds)| Rest Lease-Zeit (Sek)
-Current Call Server| Netto DHCP Info
+Current Call Server| Server jetziger Anrufer
 Device Move Detected| Geräte-Umzug erkannt
 Did you move to a new address?\n\nYes - Update your emergency location information| Sind Sie umgezogen?\n\nJa - Aktualisieren Sie Ihre Notrufstandortinformationen
 Manual Upgrade| Manuelles Upgrade
@@ -79,7 +79,7 @@ key opens Voicemail App| Taste öffnet Voicemail-App
 Available Networks| Verfügbare Netzwerke
  Enter Administrator Password|  Administrator-Passwort eingeben
 Lease Remaining (Seconds)| Rest Lease-Zeit (Sek)
-Current Call Server| Netto DHCP Info
+Current Call Server| Server jetziger Anrufer
 Device Move Detected| Geräte-Umzug erkannt
 Did you move to a new address?\n\nYes - Update your emergency location information| Sind Sie umgezogen?\n\nJa - Aktualisieren Sie Ihre Notrufstandortinformationen
 Manual Upgrade| Manuelles Upgrade
@@ -749,7 +749,6 @@ Duration(Minutes)| Dauer (Min.)
 Packets Tx:| Pakete Tx:
 Packets Rx:| Pakete Rx:
 byte packets| Byte Pakete
-TFTP Server| TFTP Server
 IPA Server| IPA Server
 Hostname/IP addr.| Host/IP Adr.
 Pinging...| Pinging...

@@ -751,7 +751,6 @@ Duration(Minutes)| Duración (mins)
 Packets Tx:| Tx de Paquetes:
 Packets Rx:| Rx de Paquetes:
 byte packets| paquetes bytes
-TFTP Server| Servidor TFTP
 IPA Server| Servidor IPA
 Hostname/IP addr.| Hostname/dir IP
 Pinging...| Pinging...

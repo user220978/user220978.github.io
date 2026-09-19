@@ -749,7 +749,6 @@ Duration(Minutes)| Длительн (мин)
 Packets Tx:| Отпр. пакетов:
 Packets Rx:| Прин. пакетов:
 byte packets| байтов в пакетах
-TFTP Server| Сервер TFTP
 IPA Server| Сервер IPA
 Hostname/IP addr.| Имя узла/IP
 Pinging...| Пингование...
@@ -867,7 +866,7 @@ Will reconnect to the server for the settings to take effect.| Повторно 
 Reconnect| Подключиться повторно
 Reconnect later| Подключиться повторно позже
 Press # on the dialpad to enter a Dot "."| Нажмите # на панели набора номера, чтобы ввести точку "."
-TFTP Server| Недопустимый порт TFTP
+TFTP Server| Сервер TFTP
 TFTP Port| TFTP путь
 TFTP Path| Ручное обновление
 Bluetooth Advanced Settings| Расширенные настройки Bluetooth
